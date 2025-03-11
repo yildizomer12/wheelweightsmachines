@@ -291,3 +291,5 @@ export interface Dictionary {
     productDescription: string;
   };
 }
+
+export type TranslationKey = string | keyof Dictionary | keyof Dictionary[keyof Dictionary];

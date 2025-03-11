@@ -1,4 +1,10 @@
 {
+  "errors": {
+    "somethingWentWrong": "Something went wrong!",
+    "tryAgain": "Try again",
+    "pageNotFound": "Page Not Found",
+    "goBack": "Go Back"
+  },
   "metadata": {
     "title": "Industrial Wheel Weight Manufacturing Equipment | Adhesive Wheel Weight Machines by YILSA",
     "description": "Advanced machinery by YILSA for high-precision adhesive wheel weight production. Equipment delivering 100,000 pieces/hour with expert technical support. Industry-leading rotary punch technology."

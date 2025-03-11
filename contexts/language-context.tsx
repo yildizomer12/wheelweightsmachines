@@ -4,7 +4,7 @@ import { createContext, useContext, useState, useEffect, ReactNode } from 'react
 import { translations } from '@/translations';
 
 type Language = 'en' | 'tr';
-type TranslationKey = keyof typeof translations.en;
+type TranslationKey = keyof (typeof translations)['en'] | string;
 
 interface LanguageContextType {
   language: Language;
@@ -54,7 +54,10 @@ export function LanguageProvider({ children }: { children: ReactNode }) {
   };
 
   const t = (key: TranslationKey): string => {
-    return translations[language][key] || translations.en[key] || key;
+    const translatedValue = translations[language][key as keyof (typeof translations)[typeof language]] || 
+                          translations.en[key as keyof (typeof translations)['en']] || 
+                          key;
+    return typeof translatedValue === 'string' ? translatedValue : key as string;
   };
 
   if (!mounted) {

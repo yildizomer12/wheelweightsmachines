@@ -1,4 +1,10 @@
 {
+  "errors": {
+    "somethingWentWrong": "Bir şeyler yanlış gitti!",
+    "tryAgain": "Tekrar dene",
+    "pageNotFound": "Sayfa Bulunamadı",
+    "goBack": "Geri Dön"
+  },
   "metadata": {
     "title": "YILSA Mühendislik | Balans Ağırlığı Makineleri",
     "description": "Kesme ve markalama, bantlama ve paketleme makinelerini içeren gelişmiş balans ağırlığı üretim makineleri. Balans ağırlığı üretiminde verimlilik ve kaliteyi artırın."
