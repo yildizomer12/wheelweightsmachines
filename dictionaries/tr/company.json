@@ -1,0 +1,110 @@
+{
+  "faq": {
+    "tag": "Sorular",
+    "title": "Sıkça Sorulan Sorular",
+    "subtitle": "Ürünlerimiz ve hizmetlerimiz hakkında sıkça sorulan soruların yanıtlarını bulun",
+    "warranty": {
+      "question": "Garanti neleri kapsıyor?",
+      "answer": "Garanti, alıcının yanlış kullanımı hariç olmak üzere mekanik parçaları 1 yıl kapsar. Teslim tarihinden itibaren başlar. Servis personelinin konaklama, seyahat, gidiş-dönüş uçak bileti ve yemek dahil masraflarından alıcı sorumludur. Kalıplar garanti kapsamı dışındadır. Elektronik cihazların garantisi, satın alma kurumunun koşullarına tabidir ve bu kurumlarla iletişim kurmak alıcının sorumluluğundadır. Isıl işlem ve malzeme sertifikaları sağlanacaktır. Garanti süresi boyunca servis, sorun alıcı hatasından kaynaklanmadığı sürece ücretsizdir."
+    },
+    "support": {
+      "question": "Makine için nasıl teknik destek alabilirim?",
+      "answer": "YILSA, gerektiğinde dahili teknik destek sağlayarak makine güvenilirliğini garanti eder. Sorularınız veya sorunlarınız için kullanım kılavuzuna bakın veya satış temsilcisiyle iletişime geçin."
+    },
+    "installation": {
+      "question": "Makine nasıl kurulur?",
+      "answer": "Makineler kompakt ve monolitik olacak şekilde tasarlanmıştır, bu da kurulumlarını kolaylaştırır. Satıcının personeli, satıcının üretim alanında kurulum ve kullanım için eğitim sağlayacaktır."
+    },
+    "parts": {
+      "question": "Yedek parçaları nasıl temin edebilirim?",
+      "answer": "Satıcı, erkek ve dişi kalıpları ücret karşılığında yedek parça olarak sağlar. Gerekli yedek parçalar için YILSA ile iletişime geçin."
+    },
+    "training": {
+      "question": "Makine operatörleri için eğitim veriliyor mu?",
+      "answer": "Satıcının yetkili personeli, alıcının personelini satıcının üretim alanında eğitecektir. Eğitim bir gün sürer ve kurulum ve kullanım gösterimini içerir. Makineyi çalıştırmadan önce, tüm operatörlerin kullanım kılavuzunu dikkatlice okuduğundan ve anladığından emin olun."
+    }
+  },
+  "contact": {
+    "tag": "İletişim",
+    "title": "Bize Ulaşın",
+    "subtitle": "Yenilikçi çözümlerimizle lastik ağırlığı üretiminizi dönüştürün. İhtiyaçlarınızı görüşmek ve çözümlerimizin işinize nasıl fayda sağlayabileceğini keşfetmek için bizimle iletişime geçin.",
+    "whatsapp": "WhatsApp",
+    "email": "E-posta",
+    "locationLabel": "Konum",
+    "locations": {
+      "denizli": "Denizli, Türkiye"
+    },
+    "form": {
+      "contactPerson": "İlgili Kişi",
+      "companyName": "Şirket Adı",
+      "phone": "Telefon Numarası",
+      "email": "E-posta",
+      "country": "Ülke",
+      "message": "Mesaj",
+      "submit": "Mesaj Gönder",
+      "submitLoading": "Gönderiliyor..."
+    },
+    "representative": {
+      "title": "Temsilcilerimiz olmak için bizimle iletişime geçin!",
+      "label": "Temsilciler"
+    },
+    "uk": {
+      "name": "Ali Yıldız",
+      "location": "Londra, İngiltere"
+    },
+    "tr": {
+      "name": "Ömer Yıldız",
+      "location": "Denizli, Türkiye"
+    },
+    "in": {
+      "name": "Kulljit Singh",
+      "location": "Mumbai, Hindistan"
+    }
+  },
+  "about_us": {
+    "tag": "Hakkımızda",
+    "title": "Biz YILSA'yız",
+    "subtitle": "Lastik Ağırlığı Çözümlerinde Mühendislik Mükemmelliği",
+    "vision": {
+      "question": "Vizyonumuz",
+      "answer": "YILSA, lastik ağırlığı sektöründe inovasyona ve müşteri memnuniyetine kendini adamış, ileri görüşlü bir şirkettir. Kalite, verimlilik ve teknolojik ilerleme ilkeleri üzerine kurulan şirketimiz, mükemmellik için endüstri standartlarını belirlemeye devam ediyor."
+    },
+    "innovation": {
+      "question": "Araştırma ve Geliştirme",
+      "answer": "İnovasyona olan bağlılığımız, 2013 yılında üretim hızını ve verimliliğini devrimcileştiren çığır açan Rotary Punch Ar-Ge projesiyle başladı. Hammadde maliyetlerini %50'ye kadar önemli ölçüde azaltan son teknoloji tel ezme makineleri geliştirdik. Entegre bantlama ve paketleme sistemlerimiz, tüm ürünlerde tutarlı kalite sağlar."
+    },
+    "expertise": {
+      "question": "Üretim Uzmanlığı",
+      "answer": "YILSA, hızlı ve hassas lastik ağırlığı üretiminde sektöre liderlik ediyor ve her üründe benzersiz bir doğruluk sunuyor. Uyarlanabilirlik taahhüdümüz, pazar taleplerini karşılamak ve müşteri beklentilerini aşmak için sürekli olarak geliştiğimiz anlamına geliyor."
+    },
+    "quality": {
+      "question": "Kalite Güvencesi",
+      "answer": "Kendimizi özellikle lastik dükkanları ve garajlar için tasarlanmış güvenilir ve yüksek performanslı yapışkanlı lastik ağırlıkları sağlamaya adadık. Kalite taahhüdümüz, her ürünün en yüksek endüstri standartlarını karşılamasını sağlar."
+    },
+    "section": {
+      "title": "Lastik Ağırlığı Çözümlerinde Mühendislik Mükemmelliği",
+      "subtitle": "Vizyonumuz",
+      "description": "YILSA, lastik ağırlığı sektöründe inovasyona ve müşteri memnuniyetine kendini adamış, ileri görüşlü bir şirkettir. Kalite, verimlilik ve teknolojik ilerleme ilkeleri üzerine kurulan şirketimiz, mükemmellik için endüstri standartlarını belirlemeye devam ediyor. Temel değerlerimize olan bağlılığımız, müşterilerimiz için sürekli olarak üstün çözümler sunmamızı sağlıyor.",
+      "ourVisionDescription": "YILSA, lastik ağırlığı sektöründe inovasyona ve müşteri memnuniyetine kendini adamıştır. Kalite, verimlilik ve teknolojik ilerleme ilkeleri üzerine kurulduk ve mükemmellik için endüstri standartlarını belirlemeye devam ediyoruz.",
+      "researchAndDevelopmentTitle": "Araştırma ve Geliştirme",
+      "researchAndDevelopmentDescription": "İnovasyona olan bağlılığımız, 2013 yılında üretim hızını ve verimliliğini devrimcileştiren çığır açan Rotary Punch Ar-Ge projesiyle başladı. Hammadde maliyetlerini %50'ye kadar önemli ölçüde azaltan son teknoloji tel ezme makineleri geliştirdik. Entegre bantlama ve paketleme sistemlerimiz, tüm ürünlerde tutarlı kalite sağlar.",
+      "productionExpertiseTitle": "Üretim Uzmanlığı",
+      "productionExpertiseDescription": "YILSA, hızlı ve hassas lastik ağırlığı üretiminde sektöre liderlik ediyor ve her üründe benzersiz bir doğruluk sunuyor. Uyarlanabilirlik taahhüdümüz, pazar taleplerini karşılamak ve müşteri beklentilerini aşmak için sürekli olarak geliştiğimiz anlamına geliyor.",
+      "qualityAssuranceTitle": "Kalite Güvencesi",
+      "qualityAssuranceDescription": "Kendimizi özellikle lastik dükkanları ve garajlar için tasarlanmış güvenilir ve yüksek performanslı yapışkanlı lastik ağırlıkları sağlamaya adadık. Kalite taahhüdümüz, her ürünün en yüksek endüstri standartlarını karşılamasını sağlar."
+    },
+    "meta": {
+      "title": "YILSA Hakkında | Lastik Ağırlığı Çözümlerinde Mühendislik Mükemmelliği",
+      "description": "YILSA'nın lastik ağırlığı üretimindeki inovasyon yolculuğunu keşfedin. Devrim niteliğindeki Rotary Punch teknolojisinden entegre üretim sistemlerine kadar, kalite ve verimliliğe olan bağlılığımızı öğrenin.",
+      "keywords": [
+        "lastik ağırlığı üreticisi",
+        "YILSA şirketi",
+        "lastik ağırlığı inovasyonu",
+        "lastik ağırlığı üretim uzmanlığı",
+        "lastik ağırlığı sektör lideri"
+      ]
+    }
+  },
+  "qualityPolicy": "Kalite Politikası",
+  "environmentalPolicy": "Çevre Politikası"
+}

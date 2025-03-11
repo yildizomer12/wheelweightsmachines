@@ -1,0 +1,67 @@
+{
+  "hero": {
+    "badge": "Lastik Ağırlıkları",
+    "title": "Profesyonel Lastik Servisleri için Yüksek Performanslı Yapışkanlı Lastik Ağırlıkları",
+    "description": "Üstün yapışma, galvaniz kaplama ve ±0.5g hassasiyetinde ağırlık doğruluğu ile endüstri lideri lastik ağırlıklarını keşfedin. Tutarlı kalite ve performans için gelişmiş Rotary Punch teknolojisi kullanılarak üretilmiştir."
+  },
+  "specifications": {
+    "description": "Lastik ağırlıklarımız, üstün performans ve güvenilirlik sunmak için hassas mühendisliği birinci sınıf malzemelerle birleştirir. Güvenli bağlantı sağlayan yüksek kaliteli yapışkan bantlı kendinden yapışkanlı teknolojiye sahiptirler. Galvaniz kaplama korozyon direncini artırırken, keskin kenarlar hassas yerleşimi ve profesyonel bir görünümü garanti eder. Ağırlık doğruluğu şerit başına ±0.5g içinde tutulur. Bu lastik ağırlıkları, tüm balanslama ihtiyaçlarını karşılamak için çok yönlü kombinasyonlarda mevcuttur ve her kutu 50-100 şerit profesyonel sınıf ağırlık içerir.",
+    "table": {
+      "specification": "Özellikler",
+      "series5_5": "5-5 Gr Serisi",
+      "series10_5": "10-5 Gr Serisi",
+      "dimensions": "Boyutlar",
+      "dimensionsValue5_5": "19 x 11.5 x 3 mm",
+      "dimensionsValue10_5": "19 x 23 x 3 mm",
+      "stripConfiguration": "Şerit Yapılandırması",
+      "stripConfigurationValue5_5": "60g (12x5g)",
+      "stripConfigurationValue10_5": "60g (4x5g + 4x10g)",
+      "stripsPerBox": "Kutu Başına Şerit Sayısı",
+      "stripsPerBoxValue": "50-100",
+      "totalWeightPerBox": "Kutu Başına Toplam Ağırlık",
+      "totalWeightPerBoxValue": "3-6 kg",
+      "surfaceTreatment": "Yüzey İşlemi",
+      "surfaceTreatmentValue": "Galvanizli",
+      "edgeType": "Kenar Tipi",
+      "edgeTypeValue": "Keskin hassas kenarlar",
+      "adhesiveType": "Yapışkan Tipi",
+      "adhesiveTypeValue": "Birinci sınıf çift taraflı"
+    }
+  },
+  "productDescription": {
+    "title": "Optimum Denge için Profesyonel Sınıf Lastik Ağırlıkları",
+    "intro": "Lastik ağırlıklarımız, özellikle profesyonel lastik atölyeleri ve otomotiv servis merkezleri için tasarlanmış, balans teknolojisinin zirvesini temsil etmektedir. Her bir ağırlık, endüstri standartlarını aşan tutarlı kalite ve hassas boyutlar sağlayan gelişmiş Rotary Punch teknolojisi kullanılarak üretilmiştir. Ağırlıklar, olağanüstü yapışma gücü sağlarken gerektiğinde temiz bir şekilde çıkarılmaya olanak tanıyan özel olarak formüle edilmiş bir yapışkan tabana sahiptir. Galvaniz kaplama işlemimiz, üstün korozyon direnci sağlayarak bu ağırlıkları tüm hava koşulları ve ortamlar için uygun hale getirir.",
+    "qualityAssurance": {
+      "title": "Kalite Güvencesi",
+      "description": "Her üretim partisi, sertifikalı tedarikçilerden temin edilen malzemelerle titiz kalite kontrolünden geçer. Üretim sürecimiz uluslararası standartlara göre onaylanmıştır ve güvenilirlik ve performansı sağlamak için tüm üretim süreçlerinde tutarlı ağırlık doğruluğunu koruyoruz."
+    },
+    "applications": {
+      "title": "Uygulamalar",
+      "description": "Bu lastik ağırlıkları profesyonel lastik servis merkezleri, otomotiv bayilikleri, filo bakım tesisleri, yüksek hacimli lastik perakendecileri ve performans araç uygulamaları için idealdir."
+    },
+    "manufacturingExcellence": {
+      "title": "Üretimde Mükemmellik",
+      "description": "Tescilli üretim ekipmanlarımızı kullanarak üretim süreci üzerinde tam kontrol sağlıyoruz. Lastik ağırlıklarımız, geleneksel pres sistemlerine kıyasla üstün kalite sağlayan gelişmiş Rotary Punch teknolojisi kullanılarak üretilmektedir. Lastik ağırlığı üretim yeteneklerimizle ilgilenenler için, yenilikçi makinelerimizi içeren eksiksiz üretim hattı çözümleri de sunuyoruz."
+    },
+    "orderPackaging": {
+      "title": "Sipariş ve Paketleme Bilgileri",
+      "description": "Her kutu 100 şerit içerir ve yüksek hacimli kullanıcılar için toplu sipariş mevcuttur. Distribütörler için özel paketleme çözümleri sağlanabilir ve her siparişle birlikte eksiksiz teknik dokümantasyon dahildir. Talep üzerine uygunluk sertifikası da mevcuttur."
+    },
+    "learnMore": "Üretim çözümlerimiz hakkında daha fazla bilgi edinmek ister misiniz? Yenilikçi Rotary Punch teknolojisine sahip lastik ağırlığı üretim ekipmanları yelpazemizi keşfedin."
+  },
+  "faq": {
+    "title": "Sıkça Sorulan Sorular"
+  },
+  "meta": {
+    "title": "Yüksek Performanslı Yapışkanlı Lastik Ağırlıkları | Profesyonel Lastik Balans Çözümleri | YILSA",
+    "description": "Üstün yapışma, galvaniz kaplama ve ±0.5g ağırlık doğruluğuna sahip birinci sınıf yapışkanlı lastik ağırlıkları. Otomotiv profesyonelleri için gelişmiş Rotary Punch teknolojisi kullanılarak üretilmiştir.",
+    "keywords": [
+      "yapışkanlı lastik ağırlıkları",
+      "profesyonel lastik ağırlıkları",
+      "lastik balans ağırlıkları",
+      "lastik servis lastik ağırlıkları",
+      "yüksek hassasiyetli lastik ağırlıkları",
+      "galvanizli lastik ağırlıkları"
+    ]
+  }
+}

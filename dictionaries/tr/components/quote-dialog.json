@@ -1,0 +1,15 @@
+{
+  "title": "Teklif Al",
+  "description": "Aşağıdaki formu doldurun ve size detaylı bir fiyat teklifi ile geri dönüş yapalım.",
+  "name": "Adınız",
+  "email": "E-posta",
+  "phone": "Telefon Numarası",
+    "message": "Mesaj",
+    "submit": "Gönder",
+    "submitting": "Gönderiliyor...",
+    "successMessage": "Talebiniz başarıyla gönderildi!",
+    "errorMessage": "Talep gönderme başarısız oldu. Lütfen tekrar deneyin.",
+    "successTitle": "Başarılı",
+    "errorTitle": "Hata",
+    "okButton": "Tamam"
+  }

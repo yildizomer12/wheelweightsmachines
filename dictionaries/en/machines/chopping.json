@@ -1,0 +1,109 @@
+{
+  "hero": {
+    "tag": "Wheel Weights Chopping and Marking Machine",
+    "title": "High-Speed Wheel Weight Production Machine",
+    "description": "Achieve unmatched production speeds of 100,000 pieces per hour with our advanced rotary punch technology"
+  },
+  "comparison": {
+    "title": "Technology Comparison",
+    "subtitle": "Advanced Technology vs Traditional Methods",
+    "rotary": {
+      "title": "Rotary Punch Technology",
+      "speed": "100,000 pieces/hour production speed",
+      "efficiency": "83,300 pieces/kWh energy efficiency",
+      "motion": "Continuous rotary motion for smooth operation",
+      "feeding": "Self-feeding mechanism",
+      "cuts": "Burr-free, precise cuts"
+    },
+    "traditional": {
+      "title": "Traditional Press Systems",
+      "speed": "25,000 pieces/hour production speed",
+      "efficiency": "20,800 pieces/kWh energy efficiency",
+      "motion": "Intermittent motion causing vibration",
+      "feeding": "Requires external feeding unit",
+      "cuts": "Burrs and cutting angle distortion"
+    },
+    "stats": {
+      "production": {
+        "value": "4x",
+        "label": "Faster Production"
+      },
+      "energy": {
+        "value": "80%",
+        "label": "Energy Savings"
+      },
+      "waste": {
+        "value": "0%",
+        "label": "Material Waste"
+      }
+    }
+  },
+  "specifications": {
+    "title": "Product Specifications",
+    "subtitle": "Key Features & Technical Specifications",
+    "frontView": "Front view",
+    "intro": {
+      "part1": "The YILSA Wheel Weights Chopping and Marking Machine revolutionizes adhesive wheel weight manufacturing through innovative rotary punch technology. Unlike traditional press systems, our machine employs synchronized rotating drums with male and female cutters, enabling continuous production without wastage or quality compromise.",
+      "part2": "Designed specifically for manufacturing facilities requiring high-volume output, this machine delivers unmatched efficiency with production speeds of up to 100,000 pieces per hour - making it 4-8 times faster than conventional systems."
+    },
+    "tabs": {
+      "production": "Production Specifications",
+      "machine": "Machine Specifications"
+    },
+    "production": {
+      "capacity": "Production Capacity",
+      "capacityValue": "100,000 pcs/hour (double feed)",
+      "energy": "Energy Consumption",
+      "energyValue": "1.37 kWh per 100,000 pieces",
+      "stripWidth": "Strip Width (5g)",
+      "stripWidthValue": "11.5 mm",
+      "cutLength": "Cut Length",
+      "cutLengthValue": "19 mm fixed",
+      "rawMaterial": "Raw Material",
+      "rawMaterialValue": "St37 steel strip in roll",
+      "thickness": "Material Thickness",
+      "thicknessValue": "~3 mm"
+    },
+    "machine": {
+      "dimensions": "Dimensions",
+      "dimensionsValue": "60cm x 80cm x 130cm",
+      "weight": "Weight",
+      "weightValue": "720 kg",
+      "drive": "Drive System",
+      "driveValue": "3 kW Motor with AC Drive",
+      "control": "Control System",
+      "controlValue": "Delta PLC with 7\" Display",
+      "cutting": "Cutting System",
+      "cuttingValue": "70 precision blades",
+      "marking": "Marking System",
+      "markingValue": "4 customizable drums"
+    }
+  },
+  "description": {
+    "tag": "Product Description",
+    "title": "Core of Your Production Line",
+    "intro": "The Wheel Weights Chopping and Marking Machine stands as the cornerstone of efficient wheel weight manufacturing. As the central component in the production line, it transforms raw material into precisely cut and clearly marked weights, setting the foundation for all subsequent processing steps.",
+    "technology": {
+      "title": "Advanced Operation System",
+      "description": "The machine's dual-drum design incorporates both cutting and marking functions in a single, streamlined process. While the primary drums handle precise cutting without material waste, the integrated marking drums simultaneously imprint weight values and brand information with exceptional clarity. This synchronized operation ensures consistent quality across high-volume production runs."
+    },
+    "benefits": {
+      "title": "Superior Production Benefits",
+      "intro": "The rotary punch technology delivers three key advantages over traditional press systems:",
+      "list": {
+        "energy": "Energy efficiency: Consuming just 1.37 kWh per 100,000 pieces, representing an 80% reduction in energy usage",
+        "quality": "Quality consistency: Produces burr-free cuts with clear markings through continuous rotational force",
+        "space": "Space optimization: Compact design with vertical punch mechanism requires minimal floor space while maintaining maximum output"
+      }
+    },
+    "integration": {
+      "title": "Integration & Automation",
+      "description": "The machine seamlessly connects with both upstream wire flattening and downstream taping processes. Its self-feeding mechanism eliminates the need for additional feeding units, while the precision-controlled output ensures smooth transition to subsequent processing stages. The entire system is managed through an advanced Delta PLC control system with a 7\" display interface, enabling real-time monitoring and adjustment of production parameters."
+    }
+  },
+  "meta": {
+    "title": "YILSA: Revolutionizing Wheel Weight Production with Advanced Rotary Punch Technology",
+    "description": "Discover YILSA's high-speed wheel weight production machines featuring rotary punch technology. Produce up to 100,000 pieces per hour with lower energy consumption and maintenance costs.",
+    "keywords": "wheel weight production machines, rotary punch technology, adhesive wheel weights, high-speed wheel weight production, wheel weight manufacturing equipment"
+  }
+}

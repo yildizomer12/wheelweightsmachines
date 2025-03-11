@@ -1,0 +1,72 @@
+{
+  "hero": {
+    "tag": "Lastik Ağırlığı Bantlama ve Paketleme Makinesi",
+    "title": "Yüksek Hassasiyetli Otomatik Üretim",
+    "description": "Entegre sistemimizle ham lastik ağırlıklarını saatte 90 kg işleyebilen mükemmel bantlanmış ve paketlenmiş ürünlere dönüştürün"
+  },
+  "specifications": {
+    "title": "Ürün Özellikleri",
+    "subtitle": "Temel Özellikler & Teknik Özellikler",
+    "intro": "YILSA Bantlama ve Paketleme Makinesi, lastik ağırlığı bitirmede benzersiz hassasiyet sunar. Yüksek hacimli üretim ortamları için üretilen sistemimiz, hem 5g+5g hem de 5g+10g kombinasyonları için çift konfigürasyon özelliği ile kritik bitirme süreçlerine otomasyon getiriyor. Gerçek zamanlı izleme ve hassas kontrol ile bu gelişmiş sistem, olağanüstü kalite standartlarını korurken saatte 90 kg'a kadar işleyebilir. İsteğe bağlı paketleme ünitesi, saatte 15 kutuya kadar işleyen eksiksiz bir otomasyon çözümü oluşturmak için sorunsuz bir şekilde entegre olur.",
+    "machine": {
+      "dimensions": "Boyutlar",
+      "dimensionsValue": "1158mm x 1058mm x 1380mm",
+      "application": "Konfigürasyon",
+      "applicationValue": "5g+5g ve 5g+10g konfigürasyonları",
+      "capacity": "Üretim Kapasitesi",
+      "capacityValue": "90 kg/saat",
+      "weight": "Net Ağırlık",
+      "weightValue": "350 kg",
+      "energy": "Enerji Tüketimi",
+      "energyValue": "0.2 kWh/saat",
+      "control": "Kontrol Sistemi",
+      "controlValue": "7\" Ekranlı Delta PLC",
+      "packaging": "Paketleme Kapasitesi",
+      "packagingValue": "15 kutu/saat (isteğe bağlı ünite ile)"
+    }
+  },
+  "description": {
+    "tag": "Ürün Açıklaması",
+    "title": "Üretimde Mükemmelliğe Ulaşmak",
+    "intro": "Bantlama ve Paketleme Makinemiz, lastik ağırlığı otomasyon teknolojisinin ön saflarında yer almaktadır. Bu hassas mühendislik ürünü sistem, üretim hattınızı dönüştürerek piyasaya dağıtıma hazır, mükemmel şekilde bitirilmiş ürünler sunar.",
+    "system": {
+      "title": "Sistem Özellikleri",
+      "description": "Gelişmiş Delta PLC teknolojisi ile güçlendirilen sistemimiz, bitirme süreci üzerinde benzeri görülmemiş kontrol sunar. Sezgisel 7\" arayüz, üretim parametreleri üzerinde tam kontrol sağlarken, gerçek zamanlı izleme, yüksek hacimli operasyonlarda tutarlı kalite sağlar."
+    },
+    "features": {
+      "title": "Gelişmiş Özellikler",
+      "list": {
+        "config": "Çift Konfigürasyon Sistemi: 5g+5g ve 5g+10g formatları arasında sorunsuz geçiş yapın",
+        "control": "Hassas Kontrol: Sezgisel arayüze sahip gelişmiş Delta PLC sistemi",
+        "monitoring": "Gerçek Zamanlı İzleme: Canlı üretim takibi ve ayarlama",
+        "quality": "Otomatik Kalite Kontrolü: Tutarlı bant uygulaması ve hizalama",
+        "integration": "İsteğe Bağlı Entegrasyon: Senkronize paketleme ünitesi özelliği",
+        "energy": "Enerji Verimli Tasarım: 0.2 kWh/saat'te optimize edilmiş güç tüketimi"
+      }
+    },
+    "production": {
+      "title": "Üretimde Mükemmellik",
+      "description": "Sistemin yenilikçi tasarımı, yüksek hızlı üretimi hassas kalite kontrolü ile birleştirir. İsteğe bağlı paketleme ünitesi, bantlama sürecine sorunsuz bir şekilde entegre olarak ham lastik ağırlıklarını piyasaya hazır ürünlere dönüştüren tam otomatik bir bitirme hattı oluşturur."
+    },
+    "integration": {
+      "title": "Entegrasyon & Kontrol",
+      "description": "Üretim sürecinin her aşaması, gelişmiş arayüz sistemimiz aracılığıyla izlenir ve kontrol edilir. Makinenin modüler tasarımı, isteğe bağlı paketleme ünitesinin kolay entegrasyonuna olanak tanırken, gelişmiş kontrol sistemi bantlama ve paketleme işlemleri arasında mükemmel senkronizasyon sağlar."
+    },
+    "benefits": {
+      "title": "Performans Avantajları",
+      "list": {
+        "productivity": "Maksimum Verimlilik: Saatte 90 kg'a kadar işleyin",
+        "quality": "Üstün Kalite Kontrolü: Tutarlı bant uygulaması",
+        "flexibility": "Esnek Konfigürasyon: Ağırlık kombinasyonları arasında kolay geçiş",
+        "packaging": "Verimli Paketleme: İsteğe bağlı ünite saatte 15 kutu işler",
+        "operation": "Kullanıcı Dostu Operasyon: Minimum eğitim gerektirir",
+        "performance": "Güvenilir Performans: Sürekli çalışma için üretilmiştir"
+      }
+    }
+  },
+  "meta": {
+    "title": "Lastik Ağırlığı Bantlama ve Paketleme Makinesi | Yüksek Hassasiyetli Otomatik Üretim | YILSA", 
+    "description": "Entegre sistemimizle ham lastik ağırlıklarını saatte 90 kg işleyebilen mükemmel bantlanmış ve paketlenmiş ürünlere dönüştürün. 5g+5g ve 5g+10g kombinasyonları için çift konfigürasyon.",
+    "keywords": "lastik ağırlığı bantlama makinesi, lastik ağırlığı paketleme makinesi, lastik ağırlığı otomasyonu, lastik ağırlığı üretim ekipmanı, lastik ağırlığı bitirme sistemi"
+  }
+}

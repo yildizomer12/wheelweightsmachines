@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "Endüstriyel Lastik Balans Ağırlığı Üretim Ekipmanları | YILSA'dan Yapışkanlı Lastik Ağırlığı Makineleri",
+    "description": "YILSA'dan yüksek hassasiyetli yapışkanlı lastik balans ağırlığı üretimi için gelişmiş makineler. Saatte 100.000 parça üretim kapasitesi ve uzman teknik destek. Sektör lideri rotary punch teknolojisi."
+  },
+  "production": {
+    "tag": "Komple Çözüm",
+    "title": "Komple Balans Ağırlığı Üretim Hattı",
+    "subtitle": "Ham Maddeden Bitmiş Ürüne - Entegre Üretim Çözümleri",
+    "learnMore": "Detaylı Bilgi"
+  },
+  "tech": {
+    "tag": "Teknoloji",
+    "title": "Devrim Niteliğinde Rotary Punch Teknolojisi",
+    "subtitle": "İnovasyon ile Üstün Performans",
+    "speed": {
+      "title": "Yüksek Üretim Hızı",
+      "description": "Sürekli çalışma ve otomatik besleme sistemi ile geleneksel preslere göre 4-8 kat daha hızlı."
+    },
+    "energy": {
+      "title": "Enerji Verimliliği",
+      "description": "Rakibin 20.800 adet/kWh'ına karşı 83.300 adet/kWh, daha küçük motor gereksinimleri ve daha düşük işletme maliyetleri."
+    },
+    "quality": {
+      "title": "Üstün Kalite",
+      "description": "Optimal performans için çapaksız kesim, net işaretleme ve hassas ağırlık kontrolü."
+    },
+    "space": {
+      "title": "Alan Verimliliği",
+      "description": "Titreşimsiz çalışma ve esnek kurulum seçenekleri ile kompakt tasarım."
+    }
+  },
+  "comparison": {
+    "title": "Teknoloji Karşılaştırması",
+    "subtitle": "Gelişmiş Teknoloji vs Geleneksel Yöntemler",
+    "rotary": {
+      "title": "Rotary Punch Teknolojisi",
+      "speed": "100.000 adet/saat üretim hızı",
+      "efficiency": "83.300 adet/kWh enerji verimliliği",
+      "motion": "Sürekli döner hareketle pürüzsüz çalışma",
+      "feeding": "Kendinden beslemeli mekanizma",
+      "cuts": "Çapaksız, hassas kesimler"
+    },
+    "traditional": {
+      "title": "Geleneksel Pres Sistemleri",
+      "speed": "25.000 adet/saat üretim hızı",
+      "efficiency": "20.800 adet/kWh enerji verimliliği",
+      "motion": "Titreşime neden olan aralıklı hareket",
+      "feeding": "Harici besleme ünitesi gerektirir",
+      "cuts": "Çapak ve kesim açısı bozulması"
+    },
+    "stats": {
+      "production": "Daha Hızlı Üretim",
+      "energy": "Enerji Tasarrufu",
+      "waste": "Malzeme Firesi"
+    }
+  }
+}

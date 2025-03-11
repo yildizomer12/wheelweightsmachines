@@ -1,0 +1,287 @@
+{
+  "title": "Frequently Asked Questions",
+  "tag": "FAQ",
+  "subtitle": "Find answers to common questions about our machines and services.",
+  "generalQuestionsYilsa": {
+    "category": "General Questions about YILSA Machines",
+    "q1": {
+      "question": "Where are YILSA machines manufactured?",
+      "answer": "Except for electrical and electronic parts, all components are manufactured in-house."
+    },
+    "q2": {
+      "question": "What kind of technical support is offered?",
+      "answer": "Internal technical support is available whenever required."
+    },
+    "q3": {
+      "question": "What is the warranty period for the machines?",
+      "answer": "The warranty period for mechanical parts is 1 year, excluding buyer misuse. The warranty starts from the date of machine delivery."
+    },
+    "q4": {
+      "question": "What is included in the warranty?",
+      "answer": "Warranty covers mechanical parts for 1 year, excluding any buyer misuse. Heat treatment and material certificates are also provided."
+    },
+    "q5": {
+      "question": "What is not included in the warranty?",
+      "answer": "Warranty does not cover machine molds. Also, electronic devices are subject to the conditions determined by the purchasing institution."
+    },
+    "q6": {
+      "question": "Who is responsible for the expenses of service personnel during the warranty period?",
+      "answer": "The buyer is responsible for the expenses for accommodation, travel, round-trip airfare, and meals of the service personnel."
+    },
+    "q7": {
+      "question": "How long does it take for machine delivery?",
+      "answer": "The machine will be delivered within 2.5 months from the order confirmation date."
+    },
+    "q8": {
+      "question": "Where will the machine be tested?",
+      "answer": "The machine will be tested in the seller's production area under the supervision of the buyer."
+    },
+    "q9": {
+      "question": "When is the test considered successful?",
+      "answer": "The test is successful if the machine produces a final product that meets the requirements, such as the test material processed by the machine and the specified logos."
+    },
+    "q10": {
+      "question": "Is there training for the machine?",
+      "answer": "The seller provides training for the buyer's personnel in the seller's production area. The training takes 1 day and includes the demonstration of installation and usage of the machine."
+    },
+    "q11": {
+      "question": "What if I need technical drawings of male and female molds?",
+      "answer": "The seller will provide them on request."
+    },
+    "q12": {
+      "question": "What raw materials should I use?",
+      "answer": "Use companies that produce steep-edge st37 soft steel rolls with dimensions of 3x11.5 mm for 5g and 3x23 mm for 10g, manufactured by the cold drawing method with wire drawing."
+    },
+    "q13": {
+      "question": "Can the seller provide contact information for raw material firms?",
+      "answer": "If requested, the seller will provide the contact information of such firms located in Turkey to the buyer."
+    },
+    "q14": {
+      "question": "What should I do before initial operation?",
+      "answer": "Before starting the machine for the first time, make sure that all operators have carefully read and understood the user manual."
+    },
+    "q15": {
+      "question": "What social media platforms is YILSA on?",
+      "answer": "YILSA is on YouTube, Facebook, X, Instagram, OK.ru, and VK."
+    }
+  },
+  "wheelWeightChopping": {
+    "category": "Wheel Weight Chopping and Marking Machine",
+    "q1": {
+      "question": "How does the Wheel Weight Chopping and Marking Machine work?",
+      "answer": "The machine uses Rotary Punch technology with male and female cutters on rotating drums. The sheet metal is cut and marked as the drums rotate."
+    },
+    "q2": {
+      "question": "What are the advantages of using this machine?",
+      "answer": "Advantages include low energy consumption, rapid production, long mold life, obvious marks, burr-free cuts, and high precision. The machine also doesn't require an extra feeding unit."
+    },
+    "q3": {
+      "question": "What is the production capacity of the Wheel Weight Chopping and Marking Machine?",
+      "answer": "It can produce 100,000 pieces per hour with rolled double sheet feeding."
+    },
+    "q4": {
+      "question": "What materials can be used with this machine?",
+      "answer": "It uses St37 steel strip in roll with a thickness of around 3 mm. Recommended dimensions are 3x11.5 mm for 5g weights and 3x23 mm for 10g weights."
+    },
+    "q5": {
+      "question": "What is the distance between the cutting blades on the machine?",
+      "answer": "The distance between the blades is 19 mm. This determines the cutting length."
+    },
+    "q6": {
+      "question": "What is the energy cost of the machine?",
+      "answer": "The energy cost is 1.37 kWh in weight production of 100,000 pieces."
+    },
+    "q7": {
+      "question": "What type of motor does the machine use?",
+      "answer": "The machine uses a 3 kW Motor and Speed Adjusted AC Drive."
+    },
+    "q8": {
+      "question": "What is the control system of the machine?",
+      "answer": "It uses a Delta brand PLC and 7\" Display."
+    },
+    "q9": {
+      "question": "What is the material of the cutting molds and marking drums?",
+      "answer": "The cutting molds are made of 2379 Cold inner tool steel, and the marking drums are made of Vanadis 4e."
+    },
+    "q10": {
+      "question": "What safety measures should I keep in mind while using the wheel weight chopping machine?",
+      "answer": "Keep the safety guidelines in mind to avoid injuries. Moving parts can cause serious injuries. Prior to operating the machine, make sure all safety covers are closed."
+    },
+    "q11": {
+      "question": "What do I do in case of a malfunction?",
+      "answer": "The control panel has an \"Arıza Tablosu\" (Failure Log) that shows current and past errors. The \"Arıza reset\" (Failure Reset) button can be used after fixing the problem."
+    }
+  },
+  "wheelWeightTaping": {
+    "category": "Wheel Weight Taping and Packaging Machine",
+    "q1": {
+      "question": "What types of wheel weights can the Wheel Weight Taping Machine produce?",
+      "answer": "It is capable of producing 5g+5g single drums and 5g+10g double drums, with the latter also adaptable to a 5g+5g setting. It can be used for 10g+10g and 7.5g+7.5g as well."
+    },
+    "q2": {
+      "question": "What is the capacity of the Wheel Weight Taping Machine?",
+      "answer": "It has a capacity of 80~100 kg/h."
+    },
+    "q3": {
+      "question": "What are the dimensions of the Wheel Weight Taping Machine?",
+      "answer": "The machine dimensions are 1158mm(B)*1058mm(W)1380mm(H)."
+    },
+    "q4": {
+      "question": "How many operators are required for the Wheel Weight Taping Machine?",
+      "answer": "One person can operate 2~4 sets of machines."
+    },
+    "q5": {
+      "question": "What is the energy cost of the Wheel Weight Taping Machine?",
+      "answer": "The energy cost is 0.2 kW/h."
+    },
+    "q6": {
+      "question": "Can a packaging unit be added to the Wheel Weight Taping Machine later?",
+      "answer": "Yes, a packaging unit can be added without mechanical modifications."
+    },
+    "q7": {
+      "question": "What is the capacity of the Wheel Weight Packaging Unit?",
+      "answer": "The packaging unit has a capacity of 15 boxes/hour."
+    },
+    "q8": {
+      "question": "How does the Wheel Weight Packaging Unit connect to the taping machine?",
+      "answer": "It is attached directly to the outlet conveyor of the taping machine."
+    }
+  },
+  "decoilerMachine": {
+    "category": "Decoiler Machine",
+    "q1": {
+      "question": "What are the types+ of decoiler machines available?",
+      "answer": "There are manual and hydraulic decoilers. The purchased decoiler machine comes with a hydraulic mandrel expansion unit."
+    },
+    "q2": {
+      "question": "What is the coil weight capacity of the Decoiler Machine?",
+      "answer": "The coil weight capacity is 2000 kg."
+    },
+    "q3": {
+      "question": "What are the minimum and maximum coil inner diameters?",
+      "answer": "Minimum coil inner diameter: 385 mm, Maximum coil inner diameter: 510 mm."
+    },
+    "q4": {
+      "question": "What is the maximum coil outer diameter?",
+      "answer": "The maximum coil outer diameter is 1300 mm."
+    },
+    "q5": {
+      "question": "What is the coil width capacity?",
+      "answer": "The coil width capacity is 450 mm."
+    },
+    "q6": {
+      "question": "What is the maximum working speed of the Decoiler Machine?",
+      "answer": "The maximum working speed is 40m/min."
+    }
+  },
+  "productionLine": {
+    "category": "Production Line Specific Questions",
+    "q1": {
+      "question": "What are the two main types of wheel weight production lines?",
+      "answer": "The two main types are:\nDecoiler + Chopping + Taping: This line uses a decoiler to feed strip sheets into a chopping and marking machine, followed by a taping machine.\nWire Flattening + Chopping + Taping: This line uses a wire flattening machine to prepare the material before chopping and taping."
+    },
+    "q2": {
+      "question": "What are the components of the \"Decoiler + Chopping + Taping\" production line?",
+      "answer": "The components include:\nDecoiler: For unwinding the coil of raw material.\nWheel Weight Chopping and Marking Machine (Rotary Punch): For cutting and marking the wheel weights.\nWheel Weight Taping Machine: For applying adhesive tape to the wheel weights."
+    },
+    "q3": {
+      "question": "What are the advantages of using a Rotary Punch in the production line?",
+      "answer": "Rotary Punch technology offers advantages such as:\nWaste Reduction: Capable of chopping the fed metal strip without generating any waste.\nHigh Production Capacity: Can produce 100,000 pieces/hour (if there is a rolled double sheet feeding)."
+    },
+    "q4": {
+      "question": "What is the purpose of the Decoiler Machine in the production line?",
+      "answer": "The Decoiler Machine simplifies coil and sheet metal processing by unwinding the coil."
+    },
+    "q5": {
+      "question": "What is the role of the Taping Machine in the production line?",
+      "answer": "The Taping Machine lines the manufactured wheel weight parts side by side with adhesive tapes after the coating process."
+    },
+    "q6": {
+      "question": "What are the components of the \"Wire Flattening + Chopping + Taping\" production line?",
+      "answer": "The components include:\nWire Flattening Machine: For flattening the wire into a strip suitable for wheel weights.\nChopping and Marking Machine: For cutting and marking the wheel weights.\nTaping Machine: For applying adhesive tape to the wheel weights."
+    },
+    "q7": {
+      "question": "What are the advantages of using a Wire Flattening Machine in the production line?",
+      "answer": "The Wire Flattening Machine is specifically designed for producing 5-gram wheel weights (LBA), offering a cost-effective price compared to general-purpose machines."
+    },
+    "q8": {
+      "question": "What raw materials are suitable for the \"Decoiler + Chopping + Taping\" line?",
+      "answer": "Suitable raw materials include ST37 or ST42 soft steel strip or coil. It is recommended to use companies that produce steep-edge st37 soft steel rolls with dimensions of 3x11.5 mm for 5g and 3x23 mm for 10g, manufactured by the cold drawing method with wire drawing."
+    },
+    "q9": {
+      "question": "What is the production capacity of YILSA Rotary Punch?",
+      "answer": "The monthly capacity obtained when YILSA Rotary Punch is used in the production of 5-10 g of wasteless wheel weight is 4800 boxes."
+    },
+    "q10": {
+      "question": "Can YILSA provide technical support and spare parts for automatic sorting and taping machines purchased from abroad?",
+      "answer": "Yes, YILSA provides all kinds of technical support and spare parts."
+    }
+  },
+  "generalQuestionsWeights": {
+    "category": "General Questions About Wheel Weights",
+    "q1": {
+      "question": "What are wheel weights made of?",
+      "answer": "Wheel weights are made of ST37 or ST42 soft steel strip or coil."
+    },
+    "q2": {
+      "question": "What materials are recommended for raw materials?",
+      "answer": "It is recommended to use companies that produce steep-edge st37 soft steel rolls with dimensions of 3x11.5 mm for 5g and 3x23 mm for 10g, manufactured by the cold drawing method with wire drawing."
+    },
+    "q3": {
+      "question": "What coatings are used for wheel weights?",
+      "answer": "Coatings, usually zinc, are applied to prevent corrosion. The wheel weights are also galvanized."
+    },
+    "q4": {
+      "question": "What is the weight accuracy of wheel weights produced by YILSA machines?",
+      "answer": "Weight accuracy is maintained within 60 ± 0.5g strips."
+    },
+    "q5": {
+      "question": "What sizes are available for wheel weights?",
+      "answer": "Wheel weights come in 5g and 10g."
+    },
+    "q6": {
+      "question": "What are the dimensions of a 5g wheel weight strip?",
+      "answer": "5g wheel weights have dimensions of 19 x 11.5 x 3 mm."
+    },
+    "q7": {
+      "question": "What are the dimensions of a 10g wheel weight strip?",
+      "answer": "10g wheel weights have dimensions of 19 x 23 x 3 mm."
+    },
+    "q8": {
+      "question": "What is the weight of a box of wheel weights?",
+      "answer": "A box of wheel weights weighs 6 kg."
+    },
+    "q9": {
+      "question": "How many pieces of adhesive tape are in each box?",
+      "answer": "Each box contains 100 pieces of adhesive tape."
+    },
+    "q10": {
+      "question": "What is the significance of sharp edges in wheel weights?",
+      "answer": "Sharp edges ensure precise application and secure fit."
+    },
+    "q11": {
+      "question": "Are YILSA wheel weights self-adhesive?",
+      "answer": "Yes, the wheel weights are self-adhesive."
+    },
+    "q12": {
+      "question": "What is the raw material thickness for the wheel weights?",
+      "answer": "The thickness of the raw material is 3mm."
+    },
+    "q13": {
+      "question": "What is the length of the wheel weight?",
+      "answer": "The length of the wheel weight is 19 mm and is fixed."
+    }
+  },
+  "view_all_faqs_button": "Click here to view all FAQs",
+  "meta": {
+    "title": "Frequently Asked Questions | YILSA Wheel Weight Manufacturing Equipment",
+    "description": "Find answers to common questions about YILSA's wheel weight production equipment, including chopping machines, taping systems, decoilers, and complete production lines.",
+    "keywords": [
+      "wheel weight equipment FAQ",
+      "wheel weight manufacturing questions",
+      "wheel weight production help",
+      "YILSA machinery support",
+      "wheel weight technical questions"
+    ]
+  }
+}

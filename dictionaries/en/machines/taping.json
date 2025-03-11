@@ -1,0 +1,72 @@
+{
+  "hero": {
+    "tag": "Wheel Weights Taping and Packaging Machine",
+    "title": "High-Precision Automated Production",
+    "description": "Transform raw wheel weights into perfectly taped and packaged products with our integrated system capable of processing 90 kg per hour"
+  },
+  "specifications": {
+    "title": "Product Specifications",
+    "subtitle": "Key Features & Technical Specifications",
+    "intro": "The YILSA Taping and Packaging Machine delivers unmatched precision in wheel weight finishing. Built for high-volume production environments, our system brings automation to critical finishing processes with dual configuration capability for both 5g+5g and 5g+10g combinations. With real-time monitoring and precise control, this advanced system handles up to 90 kg per hour while maintaining exceptional quality standards. The optional packaging unit seamlessly integrates to create a complete automation solution, processing up to 15 boxes per hour.",
+    "machine": {
+      "dimensions": "Dimensions",
+      "dimensionsValue": "1158mm x 1058mm x 1380mm",
+      "application": "Configuration",
+      "applicationValue": "5g+5g and 5g+10g configurations",
+      "capacity": "Production Capacity",
+      "capacityValue": "90 kg/hr",
+      "weight": "Net Weight",
+      "weightValue": "350 kg",
+      "energy": "Energy Consumption",
+      "energyValue": "0.2 kWh/hr",
+      "control": "Control System",
+      "controlValue": "Delta PLC with 7\" Display",
+      "packaging": "Packaging Capacity",
+      "packagingValue": "15 boxes/hr (with optional unit)"
+    }
+  },
+  "description": {
+    "tag": "Product Description",
+    "title": "Mastering Production Excellence",
+    "intro": "Our Taping and Packaging Machine stands at the forefront of wheel weight automation technology. This precision-engineered system transforms your production line, delivering perfectly finished products ready for market distribution.",
+    "system": {
+      "title": "System Features",
+      "description": "Powered by advanced Delta PLC technology, our system offers unprecedented control over the finishing process. The intuitive 7\" interface provides complete command over production parameters, while real-time monitoring ensures consistent quality across high-volume operations."
+    },
+    "features": {
+      "title": "Advanced Features",
+      "list": {
+        "config": "Dual Configuration System: Seamlessly switch between 5g+5g and 5g+10g formats",
+        "control": "Precision Control: Advanced Delta PLC system with intuitive interface",
+        "monitoring": "Real-Time Monitoring: Live production tracking and adjustment",
+        "quality": "Automated Quality Control: Consistent tape application and alignment",
+        "integration": "Optional Integration: Synchronized packaging unit capability",
+        "energy": "Energy Efficient Design: Optimized power consumption at 0.2 kWh/hr"
+      }
+    },
+    "production": {
+      "title": "Production Excellence",
+      "description": "The system's innovative design combines high-speed production with precision quality control. The optional packaging unit integrates seamlessly with the taping process, creating a fully automated finishing line that transforms raw wheel weights into market-ready products."
+    },
+    "integration": {
+      "title": "Integration & Control",
+      "description": "Every aspect of the production process is monitored and controlled through our advanced interface system. The machine's modular design allows for easy integration of the optional packaging unit, while the sophisticated control system ensures perfect synchronization between taping and packaging operations."
+    },
+    "benefits": {
+      "title": "Performance Benefits",
+      "list": {
+        "productivity": "Maximum Productivity: Process up to 90 kg per hour",
+        "quality": "Superior Quality Control: Consistent tape application",
+        "flexibility": "Flexible Configuration: Easy switching between weight combinations",
+        "packaging": "Efficient Packaging: Optional unit processes 15 boxes per hour",
+        "operation": "User-Friendly Operation: Minimal training required",
+        "performance": "Reliable Performance: Built for continuous operation"
+      }
+    }
+  },
+  "meta": {
+    "title": "Wheel Weights Taping and Packaging Machine | High-Precision Automated Production | YILSA",
+    "description": "Transform raw wheel weights into perfectly taped and packaged products with our integrated system capable of processing 90 kg per hour. Dual configuration for 5g+5g and 5g+10g combinations.",
+    "keywords": "wheel weights taping machine, wheel weight packaging machine, wheel weight automation, wheel weight production equipment, wheel weight finishing system"
+  }
+}

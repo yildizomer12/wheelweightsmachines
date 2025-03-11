@@ -1,0 +1,70 @@
+{
+  "hero": {
+    "tag": "Decoiler Machine",
+    "title": "Comprehensive Decoiling Solutions",
+    "description": "Experience superior coil processing with our comprehensive range of decoiler machines, featuring capacities from 300kg to 10,000kg. Advanced technology meets precision engineering for optimal material handling across all industries."
+  },
+  "specifications": {
+    "title": "Key Features & Technical Specifications",
+    "description": "YILSA decoiler machines combine innovative engineering with robust performance, delivering reliable operation across diverse applications. From light-duty processing to heavy industrial use, our range offers precision control, enhanced safety features, and superior material handling capabilities. Available in both mechanical and hydraulic configurations to meet your specific production requirements.",
+    "standardProductRange": "Standard Product Range",
+    "wheelWeightSeries": "Wheel Weight Series",
+    "standard": {
+      "models": "Models",
+      "capacityRange": "Capacity Range",
+      "stripWidth": "Strip Width",
+      "maxOuterDiameter": "Max Outer Diameter",
+      "innerDiameterRange": "Inner Diameter Range",
+      "driveSystem": "Drive System",
+      "maxSpeed": "Max Speed",
+      "powerRange": "Power Range",
+      "mechanicalHydraulic": "Mechanical/Hydraulic"
+    },
+    "wheel": {
+      "models": "Models",
+      "capacityRange": "Capacity Range",
+      "stripWidth": "Strip Width", 
+      "maxOuterDiameter": "Max Outer Diameter",
+      "innerDiameterRange": "Inner Diameter Range",
+      "driveSystem": "Drive System",
+      "maxSpeed": "Max Speed",
+      "powerRange": "Power Range",
+      "mechanicalHydraulic": "Mechanical/Hydraulic"
+    }
+  },
+  "description": {
+    "tag": "Product Description",
+    "title": "YILSA Decoiling Solutions",
+    "intro": "YILSA offers comprehensive decoiling solutions designed to meet diverse industry requirements. Our machines combine advanced technology with robust engineering to deliver superior performance across all applications.",
+    "features": {
+      "title": "Technical Features",
+      "description": "Equipped with precision tension control, versatile configuration options (mechanical, hybrid, and fully hydraulic systems), and comprehensive safety features. User-friendly controls with automation capabilities ensure easy operation."
+    },
+    "series": {
+      "title": "Product Series",
+      "light": "Light Series (RL_300-1500): Offers economical solutions with mechanical drive systems ideal for small operations and precision work, suitable for narrow strip processing.",
+      "medium": "Medium Series (RL_2000-4500): Equipped with hybrid mechanical/hydraulic systems and advanced control features, suitable for industrial production environments.", 
+      "heavy": "Heavy Series (RL_6000-10000): Designed for demanding industrial applications, featuring full hydraulic systems and width capacity up to 1200mm."
+    },
+    "standard": {
+      "title": "Standard Features",
+      "description": "All models include robust construction, internal coil clamping mechanism, speed-controlled AC motor drive, and multiple safety interlocks."
+    },
+    "applications": {
+      "title": "Applications",
+      "description": "Used in various sectors including metal processing, automotive parts manufacturing, construction material production, steel service centers, and custom metal fabrication."
+    }
+  },
+  "meta": {
+    "title": "YILSA Decoiler Machines | Comprehensive Coil Processing Solutions | 300-10,000kg Capacity",
+    "description": "Explore YILSA's advanced decoiler machines with capacities from 300kg to 10,000kg. Precision engineering and versatile configurations for optimal metal coil processing across all industries.",
+    "keywords": [
+      "decoiler machine",
+      "coil decoiler",
+      "metal decoiler",
+      "hydraulic decoiler",
+      "steel coil processing equipment",
+      "industrial decoiling solutions"
+    ]
+  }
+}

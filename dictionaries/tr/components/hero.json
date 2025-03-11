@@ -1,0 +1,14 @@
+{
+  "tag": "Sektör Lideri Üretim Ekipmanları",
+  "title": "Balans Ağırlığı Üretiminde Devrim",
+  "description": "Yenilikçi rotary punch teknolojisi ve entegre üretim çözümleriyle balans ağırlığı endüstrisine öncülük ediyoruz. Komple üretim sistemlerimiz rakipsiz verimlilik, hassasiyet ve yatırım getirisi sağlar.",
+  "watchPlaylist": "Oynatma Listesi",
+  "calculateROI": "Yatırım Getirisi",
+  "stats": {
+    "production": "adet/saat üretim kapasitesi",
+    "efficiency": "adet/kWh enerji verimliliği",
+    "accuracy": "ağırlık hassasiyeti",
+    "material": "hammadde tasarrufu",
+    "experience": "yıl sektör deneyimi"
+  }
+}

@@ -1,0 +1,31 @@
+# www.wheelweightsmachines.com robots.txt
+
+# Global rules
+User-agent: *
+
+# Allow language-specific content
+Allow: /en/
+Allow: /tr/
+
+# Allow public assets
+Allow: /images/
+Allow: /sitemap.xml
+
+# Block private and utility routes
+Disallow: /api/
+Disallow: /_next/
+Disallow: /*/components/
+Disallow: /contexts/
+Disallow: /hooks/
+Disallow: /lib/
+Disallow: /services/
+Disallow: /types/
+
+# Prevent duplicate content
+Disallow: /*?*
+
+# Add sitemap reference
+Sitemap: https://www.wheelweightsmachines.com/sitemap.xml
+
+# Crawl-delay directive for rate limiting
+Crawl-delay: 1

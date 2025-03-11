@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "title": "YILSA Mühendislik | Balans Ağırlığı Makineleri",
+    "description": "Kesme ve markalama, bantlama ve paketleme makinelerini içeren gelişmiş balans ağırlığı üretim makineleri. Balans ağırlığı üretiminde verimlilik ve kaliteyi artırın."
+  },
+  "menu": {
+    "home": "Ana Sayfa",
+    "products": "Ürünler",
+    "technology": "Teknoloji",
+    "questions": "Sorularınız",
+    "about": "Hakkımızda",
+    "contact": "İletişim",
+    "websites": "Web Siteleri",
+    "blog": "Blog",
+    "getQuote": "Teklif Al",
+    "rotaryPunchTechnology": "Rotary Punch Teknolojisi",
+    "cableSupportSystems": "Kablo Taşıyıcı Sistemler",
+    "corporateWebsite": "Kurumsal Web Sitesi",
+    "language": "Dil",
+    "choppingAndMarkingMachine": "Doğrama ve Markalama Makinesi",
+    "tapingAndPackagingMachine": "Bantlama ve Paketleme Makinesi",
+    "wireFlatteningMachine": "Tel Ezme Makinesi",
+    "decoilerMachine": "Rulo Açıcı",
+    "wheelWeights": "Balans Ağırlığı"
+  },
+  "video": {
+    "closeModal": "Videoyu kapat",
+    "playerTitle": "Video Oynatıcı",
+    "noVideoSelected": "Video seçilmedi",
+    "loadingVideo": "Video yükleniyor...",
+    "loadingVideos": "Videolar yükleniyor...",
+    "productVideos": "Ürün Videoları",
+    "play": "Oynat"
+  },
+  "language": {
+    "en": "İngilizce",
+    "tr": "Türkçe"
+  },
+  "footer": {
+    "allRightsReserved": "Tüm hakları saklıdır.",
+    "privacyPolicy": "Gizlilik Politikası",
+    "terms": "Kullanım Koşulları"
+  },
+  "sections": {
+    "productSpecifications": "Ürün Özellikleri",
+    "keyFeatures": "Temel Özellikler ve Teknik Detaylar",
+    "productDescription": "Ürün Açıklaması"
+  }
+}

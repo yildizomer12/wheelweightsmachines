@@ -1,0 +1,42 @@
+{
+  "decoiler": {
+    "title": "Decoiler Machine",
+    "features": {
+      "capacity": "2000 kg coil capacity",
+      "mandrel": "Hydraulic mandrel system",
+      "tension": "Advanced tension control"
+    }
+  },
+  "flattening": {
+    "title": "Wire Flattening Machine",
+    "features": {
+      "processing": "Direct M8 wire processing",
+      "output": "11.5 x 3 mm output",
+      "cost": "50% raw material cost reduction"
+    }
+  },
+  "chopping": {
+    "title": "Chopping and Marking Machine",
+    "features": {
+      "capacity": "100,000 pcs/hour capacity",
+      "technology": "Rotary punch technology",
+      "marking": "Precision marking system"
+    }
+  },
+  "taping": {
+    "title": "Taping and Packaging Machine",
+    "features": {
+      "config": "5g+5g and 5g+10g configurations",
+      "monitoring": "Real-time monitoring",
+      "output": "15 boxes/hour output"
+    }
+  },
+  "weights": {
+    "title": "Wheel Weights Production",
+    "features": {
+      "coating": "Self-adhesive with galvanized coating",
+      "accuracy": "Weight accuracy: ±0.5g per strip",
+      "combinations": "Available in 5g and 10g combinations"
+    }
+  }
+}

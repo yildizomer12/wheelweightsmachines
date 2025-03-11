@@ -1,0 +1,108 @@
+{
+  "faq": {
+    "tag": "Questions",
+    "title": "Frequently Asked Questions",
+    "subtitle": "Find answers to common questions about our products and services",
+    "warranty": {
+      "question": "What does the warranty cover?",
+      "answer": "The warranty covers mechanical parts for 1 year, excluding buyer misuse. It starts from the delivery date. The buyer is responsible for service personnel costs, including accommodation, travel, round-trip airfare, and meals. Molds are excluded from the warranty. Electronic devices' warranty is subject to the purchasing institution's conditions, and communication with these institutions is the buyer's responsibility. Heat treatment and material certificates will be provided. Service during the warranty period is free unless the issue is due to buyer error."
+    },
+    "support": {
+      "question": "How can I get technical support for the machine?",
+      "answer": "YILSA ensures machine reliability with internal technical support available whenever required. For questions or problems, refer to the user manual or contact the sales representative."
+    },
+    "installation": {
+      "question": "How is the machine installed?",
+      "answer": "The machines are designed to be compact and monolithic, making them easy to set up. The seller's personnel will provide training for installation and usage in the seller's production area."
+    },
+    "parts": {
+      "question": "How can I acquire spare parts?",
+      "answer": "The seller provides male and female molds as spare parts for a fee. Contact YILSA for any required spare parts."
+    },
+    "training": {
+      "question": "Is training provided for machine operators?",
+      "answer": "The seller's authorized personnel will train the buyer's personnel in the seller's production area. The training takes one day and includes the installation and usage demonstration. Prior to operating the machine, ensure all operators have carefully read and understood the user manual."
+    }
+  },
+  "contact": {
+    "tag": "Contact",
+    "title": "Contact Us",
+    "subtitle": "Transform your wheel weights production with our innovative solutions. Get in touch with us to discuss your requirements and discover how our solutions can benefit your business.",
+    "whatsapp": "WhatsApp",
+    "email": "Email",
+    "locationLabel": "Location",
+    "locations": {
+      "denizli": "Denizli, Turkey"
+    },
+    "form": {
+      "contactPerson": "Contact Person",
+      "companyName": "Company Name",
+      "phone": "Phone Number",
+      "email": "Email",
+      "country": "Country",
+      "message": "Message",
+      "submit": "Send Message",
+      "submitLoading": "Submitting..."
+    },
+    "representative": {
+      "title": "Contact us to become our representatives!",
+      "label": "Representatives"
+    },
+    "uk": {
+      "name": "Ali Yıldız",
+      "location": "London, UK"
+    },
+    "tr": {
+      "name": "Ömer Yıldız",
+      "location": "Denizli, Turkey"
+    },
+    "in": {
+      "name": "Kulljit Singh",
+      "location": "Mumbai, India"
+    }
+  },
+  "about_us": {
+    "tag": "About Us",
+    "title": "We are YILSA",
+    "subtitle": "Engineering Excellence in Wheel Weight Solutions",
+    "vision": {
+      "question": "Our Vision",
+      "answer": "YILSA is a forward-thinking company dedicated to innovation and customer satisfaction in the wheel weight industry. Founded on the principles of quality, efficiency, and technological advancement, we continue to set industry standards for excellence."
+    },
+    "innovation": {
+      "question": "Research and Development",
+      "answer": "Our commitment to innovation began with the groundbreaking Rotary Punch R&D project in 2013, revolutionizing production speed and efficiency. We have developed state-of-the-art wire flattening machines that significantly reduce raw material costs by up to 50%. Our integrated taping and packaging systems ensure consistent quality across all products."
+    },
+    "expertise": {
+      "question": "Production Expertise",
+      "answer": "YILSA leads the industry in fast and precise wheel weight production, delivering unmatched accuracy in every product. Our commitment to adaptability means we are constantly evolving to meet market demands and exceed customer expectations."
+    },
+    "quality": {
+      "question": "Quality Assurance",
+      "answer": "We are dedicated to providing reliable and high-performance adhesive wheel weights specifically designed for tire shops and garages. Our quality commitment ensures that every product meets the highest industry standards."
+    },
+    "section": {
+      "title": "Engineering Excellence in Wheel Weight Solutions",
+      "subtitle": "Our Vision",
+      "description": "YILSA is a forward-thinking company dedicated to innovation and customer satisfaction in the wheel weight industry. Founded on the principles of quality, efficiency, and technological advancement, we continue to set industry standards for excellence. Our commitment to these core values drives us to consistently deliver superior solutions for our customers.",
+      "ourVisionDescription": "YILSA is committed to innovation and customer satisfaction in the wheel weight industry. We were founded on the principles of quality, efficiency and technological advancement, and we continue to set industry standards for excellence.",
+      "researchAndDevelopmentTitle": "Research and Development",
+      "researchAndDevelopmentDescription": "Our commitment to innovation began with the groundbreaking Rotary Punch R&D project in 2013, revolutionizing production speed and efficiency. We have developed state-of-the-art wire flattening machines that significantly reduce raw material costs by up to 50%. Our integrated taping and packaging systems ensure consistent quality across all products.",
+      "productionExpertiseTitle": "Production Expertise",
+      "productionExpertiseDescription": "YILSA leads the industry in fast and precise wheel weight production, delivering unmatched accuracy in every product. Our commitment to adaptability means we are constantly evolving to meet market demands and exceed customer expectations.",
+      "qualityAssuranceTitle": "Quality Assurance",
+      "qualityAssuranceDescription": "We are dedicated to providing reliable and high-performance adhesive wheel weights specifically designed for tire shops and garages. Our quality commitment ensures that every product meets the highest industry standards."
+    },
+    "meta": {
+      "title": "About YILSA | Engineering Excellence in Wheel Weight Solutions",
+      "description": "Discover YILSA's innovation journey in wheel weight manufacturing. From revolutionary Rotary Punch technology to integrated production systems, learn about our commitment to quality and efficiency.",
+      "keywords": [
+        "wheel weight manufacturer",
+        "YILSA company",
+        "wheel weight innovation",
+        "wheel weight production expertise",
+        "wheel weight industry leader"
+      ]
+    }
+  }
+}

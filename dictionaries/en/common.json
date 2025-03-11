@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "title": "Industrial Wheel Weight Manufacturing Equipment | Adhesive Wheel Weight Machines by YILSA",
+    "description": "Advanced machinery by YILSA for high-precision adhesive wheel weight production. Equipment delivering 100,000 pieces/hour with expert technical support. Industry-leading rotary punch technology."
+  },
+  "menu": {
+    "choppingAndMarkingMachine": "Chopping and Marking Machine",
+    "tapingAndPackagingMachine": "Taping and Packaging Machine",
+    "wireFlatteningMachine": "Wire Flattening Machine",
+    "decoilerMachine": "Decoiler Machine",
+    "wheelWeights": "Wheel Weights",
+    "home": "Home",
+    "products": "Products",
+    "technology": "Technology",
+    "questions": "Questions",
+    "about": "About",
+    "contact": "Contact",
+    "websites": "Websites",
+    "blog": "Blog",
+    "getQuote": "Get Quote",
+    "rotaryPunchTechnology": "Rotary Punch Technology",
+    "cableSupportSystems": "Cable Support Systems",
+    "corporateWebsite": "Corporate Website",
+    "language": "Language"
+  },
+  "video": {
+    "closeModal": "Close video",
+    "playerTitle": "Video Player",
+    "noVideoSelected": "No video selected",
+    "loadingVideo": "Loading video...",
+    "loadingVideos": "Loading videos...",
+    "productVideos": "Product Videos",
+    "play": "Play"
+  },
+  "language": {
+    "en": "English",
+    "tr": "Turkish"
+  },
+  "footer": {
+    "allRightsReserved": "All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "sections": {
+    "productSpecifications": "Product Specifications",
+    "keyFeatures": "Key Features & Technical Specifications",
+    "productDescription": "Product Description"
+  }
+}

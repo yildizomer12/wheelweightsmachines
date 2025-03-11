@@ -1,0 +1,88 @@
+{
+  "applications": {
+    "title": "Beklenenin Ötesinde: Endüstriler Arası Uygulamalar",
+    "subtitle": "Rotary Punch Teknolojisi çeşitli sektörlerde parlıyor:",
+    "wheelWeights": {
+      "title": "Lastik Ağırlıkları",
+      "description": "Lastik ağırlığı endüstrisi için yüksek hassasiyet ve hızlı üretim sağlar."
+    },
+    "clampingProfile": {
+      "title": "Kelepçeleme Profili Perforasyonu",
+      "description": "Kenar trimlerini güçlendirmek için kullanılan metal klipslerin perforasyonu için tasarlanmıştır, patentli döner zımba teknolojisi ile üretim hızını ve enerji tasarrufunu artırır."
+    },
+    "cardboardReel": {
+      "title": "Karton Makara Kenar Koruyucu V Çentik Makinesi",
+      "description": "Darbeyi ve dağılmayı önlemek için ürünlerin yuvarlak kenarlarını kapatan karton makara kenar koruyucularını üretmek için tasarlanmıştır. Kartonu delmek için patentli döner zımba teknolojisini kullanarak zımbalama araçlarının ömrünü uzatır."
+    },
+    "cableTray": {
+      "title": "Kablo Kanalı Üretimi",
+      "description": "Elektrik sistemleri için sağlam destek sağlayarak metal kablo kanallarını benzersiz hassasiyet ve hızla üretmek."
+    },
+    "customSolutions": {
+      "title": "Tekrarlayan Görevler için Özelleştirilmiş Çözümler",
+      "description": "Rotary Punch, tekrarlayan delik delme ve markalama projeleri için çözümler sunabilir."
+    },
+    "impact": "Entegrasyon ve Gerçek Dünya Etkisi",
+    "impactDescription": "Rotary Punch Teknolojisi mevcut üretim hatlarına sorunsuz bir şekilde entegre olur. İster lastik ağırlığı üretimindeki kendinden besleme mekanizması, ister kablo kanalı üretimindeki rulo şekillendirme sistemleriyle senkronizasyon olsun, bu teknoloji maksimum verimlilik için operasyonları kolaylaştırır. Rotary Punch Teknolojisi, daha fazla verimlilik, daha yüksek kalite ve önemli maliyet tasarruflarına açılan bir kapıdır. Endüstriler geliştikçe, bu teknoloji yarının zorluklarını karşılamaya, inovasyonu yönlendirmeye ve dünya çapında üretim süreçlerini dönüştürmeye hazır duruyor."
+  },
+  "description": {
+    "tag": "Teknoloji",
+    "title": "Lastik Ağırlıklarının Ötesinde: Rotary Punch Teknolojisinin Çok Yönlülüğünün Ortaya Çıkarılması",
+    "intro": "Üretim süreçlerindeki inanılmaz hız ve hassasiyetin arkasındaki adsız kahraman (bağlantı) olabilir. Lastik ağırlığı endüstrisinde bir yıldız olsa da, yetenekleri çok daha öteye uzanıyor ve üretim şeklini kökten değiştiriyor. Rotary Punch Teknolojisi büyüleyici bir sürekli döner hareketle çalışır. Mükemmel şekilde senkronize edilmiş ve erkek ve dişi kesicilerle donatılmış iki tambur, malzemeleri sorunsuz ve verimli bir şekilde kesmek ve işaretlemek için döner. Zımbalama hareketi dikey değildir, bu da daha dar alanlarda kullanılabilen daha küçük makine boyutlarına olanak tanır.",
+    "edgeTitle": "Kenar: Rotary Punch Neden Üstün?",
+    "edgeDescription": "Rotary Punch Teknolojisi, verimlilik, kalite ve uyarlanabilirliğin güçlü karışımı nedeniyle oyun değiştiricidir:",
+    "edgePoints": {
+      "speed": "Yüksek Hız: Üretim hızları saatte 100.000 parçaya kadar çıkıyor - bu, geleneksel preslerden 4-8 kat daha hızlı",
+      "energy": "Enerji Tasarrufu: 100.000 parça başına 1,37 kWh kadar az tüketerek enerji tüketimini %80'e kadar azaltır",
+      "waste": "Sıfır Atık: Her kesim hassastır, hammadde verimini en üst düzeye çıkarır ve atığı en aza indirir",
+      "quality": "Sarsılmaz Kalite: Her seferinde çapaksız kesimler, net işaretler ve tutarlı sonuçlar bekleyin",
+      "adaptable": "Uyarlanabilir: Farklı malzemeler, kalınlıklar ve ürün özelliklerine göre özelleştirilebilir",
+      "durable": "Dayanıklı: Rotary Punch Teknolojisi düşük bakım maliyetleri ve uzun kalıp ömrü getirir"
+    },
+    "comparisonTitle": "Rotary Punch ve Geleneksel Pres Sistemleri Karşılaştırması",
+    "comparisonTable": {
+      "feature": "Özellik",
+      "rotaryPunch": "Rotary Punch Teknolojisi",
+      "traditionalPress": "Geleneksel Pres Sistemleri",
+      "productionSpeed": "Üretim Hızı",
+      "productionSpeedValueRotary": "100.000 adet/saat",
+      "productionSpeedValueTraditional": "25.000 adet/saat",
+      "energyEfficiency": "Enerji Verimliliği",
+      "energyEfficiencyValueRotary": "83.300 adet/kWh",
+      "energyEfficiencyValueTraditional": "20.800 adet/kWh",
+      "motion": "Hareket",
+      "motionValueRotary": "Sorunsuz çalışma için sürekli döner hareket",
+      "motionValueTraditional": "Titreşime neden olan aralıklı hareket",
+      "feedingMechanism": "Besleme Mekanizması",
+      "feedingMechanismValueRotary": "Kendinden beslemeli mekanizma",
+      "feedingMechanismValueTraditional": "Harici besleme ünitesi gerektirir",
+      "cutQuality": "Kesim Kalitesi",
+      "cutQualityValueRotary": "Çapaksız, hassas kesimler",
+      "cutQualityValueTraditional": "Çapaklar ve kesme açısı bozulması",
+      "materialWaste": "Malzeme İsrafı",
+      "materialWasteValueRotary": "0",
+      "materialWasteValueTraditional": "Yüksek",
+      "initialInvestment": "İlk Yatırım",
+      "initialInvestmentValueRotary": "Daha Yüksek",
+      "initialInvestmentValueTraditional": "Daha Düşük",
+      "maintenanceCosts": "Bakım Maliyetleri",
+      "maintenanceCostsValueRotary": "Daha Düşük",
+      "maintenanceCostsValueTraditional": "Daha Yüksek",
+      "overallLifespan": "Genel Ömür",
+      "overallLifespanValueRotary": "Daha Uzun",
+      "overallLifespanValueTraditional": "Daha Kısa"
+    }
+  },
+  "meta": {
+    "title": "Rotary Punch Teknolojisi | 4 Kat Daha Hızlı Üretim | Enerji Verimli Üretim Çözümleri",
+    "description": "Rotary Punch Teknolojisinin geleneksel preslere kıyasla %80 daha az enerji tüketimiyle saatte 100.000 adet nasıl sağladığını keşfedin. Lastik ağırlıkları, kablo kanalları ve daha fazlasındaki uygulamaları keşfedin.",
+    "keywords": [
+      "rotary punch teknolojisi",
+      "rotary punch makinesi",
+      "metal delme teknolojisi",
+      "yüksek hassasiyetli üretim",
+      "enerji verimli punch",
+      "endüstriyel punch çözümleri"
+    ]
+  }
+}

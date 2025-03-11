@@ -1,0 +1,287 @@
+{
+  "title": "Sıkça Sorulan Sorular",
+  "tag": "SSS",
+  "subtitle": "Makinelerimiz ve hizmetlerimiz hakkında sıkça sorulan soruların yanıtlarını bulun.",
+  "generalQuestionsYilsa": {
+    "category": "YILSA Makineleri Hakkında Genel Sorular",
+    "q1": {
+      "question": "YILSA makineleri nerede üretiliyor?",
+      "answer": "Elektrik ve elektronik parçalar hariç, tüm bileşenler şirket içinde üretilmektedir."
+    },
+    "q2": {
+      "question": "Ne tür teknik destek sunuluyor?",
+      "answer": "Gerektiğinde dahili teknik destek mevcuttur."
+    },
+    "q3": {
+      "question": "Makinelerin garanti süresi ne kadar?",
+      "answer": "Mekanik parçaların garanti süresi, alıcının yanlış kullanımı hariç 1 yıldır. Garanti, makinenin teslim tarihinden itibaren başlar."
+    },
+    "q4": {
+      "question": "Garantiye neler dahildir?",
+      "answer": "Garanti, alıcının herhangi bir yanlış kullanımı hariç olmak üzere mekanik parçaları 1 yıl kapsar. Isıl işlem ve malzeme sertifikaları da sağlanmaktadır."
+    },
+    "q5": {
+      "question": "Garantiye neler dahil değildir?",
+      "answer": "Garanti, makine kalıplarını kapsamaz. Ayrıca, elektronik cihazlar satın alma kurumu tarafından belirlenen koşullara tabidir."
+    },
+    "q6": {
+      "question": "Garanti süresi boyunca servis personelinin masraflarından kim sorumludur?",
+      "answer": "Servis personelinin konaklama, seyahat, gidiş-dönüş uçak bileti ve yemek masraflarından alıcı sorumludur."
+    },
+    "q7": {
+      "question": "Makine teslimatı ne kadar sürer?",
+      "answer": "Makine, sipariş onay tarihinden itibaren 2,5 ay içinde teslim edilecektir."
+    },
+    "q8": {
+      "question": "Makine nerede test edilecek?",
+      "answer": "Makine, satıcının üretim alanında alıcının gözetiminde test edilecektir."
+    },
+    "q9": {
+      "question": "Test ne zaman başarılı sayılır?",
+      "answer": "Makine, makine tarafından işlenen test malzemesi ve belirtilen logolar gibi gereksinimleri karşılayan bir nihai ürün üretiyorsa test başarılıdır."
+    },
+    "q10": {
+      "question": "Makine için eğitim var mı?",
+      "answer": "Satıcı, alıcının personeline satıcının üretim alanında eğitim vermektedir. Eğitim 1 gün sürer ve makinenin kurulumu ve kullanımının gösterilmesini içerir."
+    },
+    "q11": {
+      "question": "Erkek ve dişi kalıpların teknik çizimlerine ihtiyacım olursa ne yapmalıyım?",
+      "answer": "Satıcı bunları talep üzerine sağlayacaktır."
+    },
+    "q12": {
+      "question": "Hangi hammaddeleri kullanmalıyım?",
+      "answer": "Tel çekme yöntemiyle soğuk çekme yöntemiyle üretilen, 5g için 3x11,5 mm ve 10g için 3x23 mm boyutlarında dik kenarlı st37 yumuşak çelik rulolar üreten şirketleri kullanın."
+    },
+    "q13": {
+      "question": "Satıcı, hammadde firmalarının iletişim bilgilerini sağlayabilir mi?",
+      "answer": "Talep edilmesi halinde, satıcı Türkiye'de bulunan bu tür firmaların iletişim bilgilerini alıcıya sağlayacaktır."
+    },
+    "q14": {
+      "question": "İlk çalıştırmadan önce ne yapmalıyım?",
+      "answer": "Makineyi ilk kez çalıştırmadan önce, tüm operatörlerin kullanım kılavuzunu dikkatlice okuduğundan ve anladığından emin olun."
+    },
+    "q15": {
+      "question": "YILSA hangi sosyal medya platformlarında yer alıyor?",
+      "answer": "YILSA YouTube, Facebook, X, Instagram, OK.ru ve VK'da yer almaktadır."
+    }
+  },
+  "wheelWeightChopping": {
+    "category": "Lastik Ağırlığı Doğrama ve Markalama Makinesi",
+    "q1": {
+      "question": "Lastik Ağırlığı Doğrama ve Markalama Makinesi nasıl çalışır?",
+      "answer": "Makine, dönen tamburlar üzerinde erkek ve dişi kesicilere sahip Rotary Punch teknolojisini kullanır. Sac metal, tamburlar dönerken kesilir ve işaretlenir."
+    },
+    "q2": {
+      "question": "Bu makineyi kullanmanın avantajları nelerdir?",
+      "answer": "Avantajları arasında düşük enerji tüketimi, hızlı üretim, uzun kalıp ömrü, belirgin işaretler, çapaksız kesimler ve yüksek hassasiyet yer alır. Makine ayrıca ekstra bir besleme ünitesi gerektirmez."
+    },
+    "q3": {
+      "question": "Lastik Ağırlığı Doğrama ve Markalama Makinesinin üretim kapasitesi nedir?",
+      "answer": "Rulo çift sac besleme ile saatte 100.000 adet üretebilir."
+    },
+    "q4": {
+      "question": "Bu makine ile hangi malzemeler kullanılabilir?",
+      "answer": "Rulo halinde yaklaşık 3 mm kalınlığında St37 çelik şerit kullanır. Önerilen boyutlar 5g ağırlıklar için 3x11,5 mm ve 10g ağırlıklar için 3x23 mm'dir."
+    },
+    "q5": {
+      "question": "Makinedeki kesme bıçakları arasındaki mesafe nedir?",
+      "answer": "Bıçaklar arasındaki mesafe 19 mm'dir. Bu, kesme uzunluğunu belirler."
+    },
+    "q6": {
+      "question": "Makinenin enerji maliyeti nedir?",
+      "answer": "Enerji maliyeti 100.000 adet ağırlık üretiminde 1,37 kWh'dir."
+    },
+    "q7": {
+      "question": "Makine ne tür bir motor kullanıyor?",
+      "answer": "Makine 3 kW Motor ve Hız Ayarlı AC Sürücü kullanmaktadır."
+    },
+    "q8": {
+      "question": "Makinenin kontrol sistemi nedir?",
+      "answer": "Delta marka PLC ve 7\" Ekran kullanır."
+    },
+    "q9": {
+      "question": "Kesme kalıplarının ve markalama tamburlarının malzemesi nedir?",
+      "answer": "Kesme kalıpları 2379 Soğuk iç takım çeliğinden, markalama tamburları ise Vanadis 4e'den yapılmıştır."
+    },
+    "q10": {
+      "question": "Lastik ağırlığı doğrama makinesini kullanırken hangi güvenlik önlemlerini aklımda tutmalıyım?",
+      "answer": "Yaralanmaları önlemek için güvenlik yönergelerini aklınızda bulundurun. Hareketli parçalar ciddi yaralanmalara neden olabilir. Makineyi çalıştırmadan önce tüm güvenlik kapaklarının kapalı olduğundan emin olun."
+    },
+    "q11": {
+      "question": "Arıza durumunda ne yapmalıyım?",
+      "answer": "Kontrol panelinde mevcut ve geçmiş hataları gösteren bir \"Arıza Tablosu\" bulunmaktadır. Sorunu çözdükten sonra \"Arıza sıfırlama\" düğmesi kullanılabilir."
+    }
+  },
+  "wheelWeightTaping": {
+    "category": "Lastik Ağırlığı Bantlama ve Paketleme Makinesi",
+    "q1": {
+      "question": "Lastik Ağırlığı Bantlama Makinesi ne tür lastik ağırlıkları üretebilir?",
+      "answer": "5g+5g tek tamburlu ve 5g+10g çift tamburlu üretebilir, ikincisi 5g+5g ayarına da uyarlanabilir. 10g+10g ve 7.5g+7.5g için de kullanılabilir."
+    },
+    "q2": {
+      "question": "Lastik Ağırlığı Bantlama Makinesinin kapasitesi nedir?",
+      "answer": "80~100 kg/saat kapasiteye sahiptir."
+    },
+    "q3": {
+      "question": "Lastik Ağırlığı Bantlama Makinesinin boyutları nelerdir?",
+      "answer": "Makine boyutları 1158mm(B)*1058mm(W)1380mm(H)'dir."
+    },
+    "q4": {
+      "question": "Lastik Ağırlığı Bantlama Makinesi için kaç operatör gereklidir?",
+      "answer": "Bir kişi 2~4 set makineyi çalıştırabilir."
+    },
+    "q5": {
+      "question": "Lastik Ağırlığı Bantlama Makinesinin enerji maliyeti nedir?",
+      "answer": "Enerji maliyeti 0,2 kW/saattir."
+    },
+    "q6": {
+      "question": "Lastik Ağırlığı Bantlama Makinesine daha sonra bir paketleme ünitesi eklenebilir mi?",
+      "answer": "Evet, mekanik değişiklikler yapılmadan bir paketleme ünitesi eklenebilir."
+    },
+    "q7": {
+      "question": "Lastik Ağırlığı Paketleme Ünitesinin kapasitesi nedir?",
+      "answer": "Paketleme ünitesi 15 kutu/saat kapasiteye sahiptir."
+    },
+    "q8": {
+      "question": "Lastik Ağırlığı Paketleme Ünitesi bantlama makinesine nasıl bağlanır?",
+      "answer": "Doğrudan bantlama makinesinin çıkış konveyörüne bağlıdır."
+    }
+  },
+  "decoilerMachine": {
+    "category": "Rulo Açıcı Makinesi",
+    "q1": {
+      "question": "Ne tür+ rulo açıcı makineler mevcuttur?",
+      "answer": "Manuel ve hidrolik rulo açıcılar vardır. Satın alınan rulo açıcı makinesi hidrolik mandrel genleşme ünitesi ile birlikte gelir."
+    },
+    "q2": {
+      "question": "Rulo Açıcı Makinesinin rulo ağırlığı kapasitesi nedir?",
+      "answer": "Rulo ağırlığı kapasitesi 2000 kg'dır."
+    },
+    "q3": {
+      "question": "Minimum ve maksimum rulo iç çapları nelerdir?",
+      "answer": "Minimum rulo iç çapı: 385 mm, Maksimum rulo iç çapı: 510 mm."
+    },
+    "q4": {
+      "question": "Maksimum rulo dış çapı nedir?",
+      "answer": "Maksimum rulo dış çapı 1300 mm'dir."
+    },
+    "q5": {
+      "question": "Rulo genişliği kapasitesi nedir?",
+      "answer": "Rulo genişliği kapasitesi 450 mm'dir."
+    },
+    "q6": {
+      "question": "Rulo Açıcı Makinesinin maksimum çalışma hızı nedir?",
+      "answer": "Maksimum çalışma hızı 40m/dakikadır."
+    }
+  },
+  "productionLine": {
+    "category": "Üretim Hattına Özel Sorular",
+    "q1": {
+      "question": "İki ana lastik ağırlığı üretim hattı türü nelerdir?",
+      "answer": "İki ana tür şunlardır:\nRulo Açıcı + Doğrama + Bantlama: Bu hat, şerit sacları bir doğrama ve markalama makinesine ve ardından bir bantlama makinesine beslemek için bir rulo açıcı kullanır.\nTel Ezme + Doğrama + Bantlama: Bu hat, malzemeyi doğrama ve bantlamadan önce hazırlamak için bir tel ezme makinesi kullanır."
+    },
+    "q2": {
+      "question": "\"Rulo Açıcı + Doğrama + Bantlama\" üretim hattının bileşenleri nelerdir?",
+      "answer": "Bileşenler şunları içerir:\nRulo Açıcı: Hammadde rulosunu çözmek için.\nLastik Ağırlığı Doğrama ve Markalama Makinesi (Rotary Punch): Lastik ağırlıklarını kesmek ve markalamak için.\nLastik Ağırlığı Bantlama Makinesi: Lastik ağırlıklarına yapışkan bant uygulamak için."
+    },
+    "q3": {
+      "question": "Üretim hattında Rotary Punch kullanmanın avantajları nelerdir?",
+      "answer": "Rotary Punch teknolojisi aşağıdaki gibi avantajlar sunar:\nAtık Azaltma: Beslenen metal şeridi hiç atık oluşturmadan doğrayabilir.\nYüksek Üretim Kapasitesi: 100.000 adet/saat üretebilir (rulo halinde çift sac besleme varsa)."
+    },
+    "q4": {
+      "question": "Üretim hattında Rulo Açıcı Makinesinin amacı nedir?",
+      "answer": "Rulo Açıcı Makinesi, ruloyu çözerek rulo ve sac metal işlemeyi basitleştirir."
+    },
+    "q5": {
+      "question": "Bantlama Makinesinin üretim hattındaki rolü nedir?",
+      "answer": "Bantlama Makinesi, üretilen lastik ağırlığı parçalarını kaplama işleminden sonra yan yana yapışkan bantlarla sıralar."
+    },
+    "q6": {
+      "question": "\"Tel Ezme + Doğrama + Bantlama\" üretim hattının bileşenleri nelerdir?",
+      "answer": "Bileşenler şunları içerir:\nTel Ezme Makinesi: Teli lastik ağırlıkları için uygun bir şerit haline getirmek için.\nDoğrama ve Markalama Makinesi: Lastik ağırlıklarını kesmek ve markalamak için.\nBantlama Makinesi: Lastik ağırlıklarına yapışkan bant uygulamak için."
+    },
+    "q7": {
+      "question": "\"Tel Ezme + Doğrama + Bantlama\" hattında Tel Ezme Makinesi kullanmanın avantajları nelerdir?",
+      "answer": "Tel Ezme Makinesi, genel amaçlı makinelere kıyasla uygun maliyetli bir fiyat sunarak özellikle 5 gramlık lastik ağırlıkları (LBA) üretmek için tasarlanmıştır."
+    },
+    "q8": {
+      "question": "\"Rulo Açıcı + Doğrama + Bantlama\" hattı için hangi hammaddeler uygundur?",
+      "answer": "Uygun hammaddeler arasında ST37 veya ST42 yumuşak çelik şerit veya rulo bulunur. Tel çekme yöntemiyle soğuk çekme yöntemiyle üretilen, 5g için 3x11,5 mm ve 10g için 3x23 mm boyutlarında dik kenarlı st37 yumuşak çelik rulolar üreten şirketleri kullanmanız önerilir."
+    },
+    "q9": {
+      "question": "YILSA Rotary Punch'ın üretim kapasitesi nedir?",
+      "answer": "YILSA Rotary Punch, 5-10 g atıksız lastik ağırlığı üretiminde kullanıldığında elde edilen aylık kapasite 4800 kutudur."
+    },
+    "q10": {
+      "question": "YILSA, yurt dışından satın alınan otomatik ayıklama ve bantlama makineleri için teknik destek ve yedek parça sağlayabilir mi?",
+      "answer": "Evet, YILSA her türlü teknik destek ve yedek parça sağlamaktadır."
+    }
+  },
+  "generalQuestionsWeights": {
+    "category": "Lastik Ağırlıkları Hakkında Genel Sorular",
+    "q1": {
+      "question": "Lastik ağırlıkları neyden yapılır?",
+      "answer": "Lastik ağırlıkları ST37 veya ST42 yumuşak çelik şerit veya rulodan yapılır."
+    },
+    "q2": {
+      "question": "Hammadde için hangi malzemeler önerilir?",
+      "answer": "Tel çekme yöntemiyle soğuk çekme yöntemiyle üretilen, 5g için 3x11,5 mm ve 10g için 3x23 mm boyutlarında dik kenarlı st37 yumuşak çelik rulolar üreten şirketleri kullanmanız önerilir."
+    },
+    "q3": {
+      "question": "Lastik ağırlıkları için hangi kaplamalar kullanılır?",
+      "answer": "Korozyonu önlemek için genellikle çinko olan kaplamalar uygulanır. Lastik ağırlıkları da galvanizlenir."
+    },
+    "q4": {
+      "question": "YILSA makineleri tarafından üretilen lastik ağırlıklarının ağırlık doğruluğu nedir?",
+      "answer": "Ağırlık doğruluğu 60 ± 0,5g şerit içinde tutulur."
+    },
+    "q5": {
+      "question": "Lastik ağırlıkları için hangi boyutlar mevcuttur?",
+      "answer": "Lastik ağırlıkları 5g ve 10g olarak gelir."
+    },
+    "q6": {
+      "question": "5g'lık bir lastik ağırlığı şeridinin boyutları nelerdir?",
+      "answer": "5g'lık lastik ağırlıklarının boyutları 19 x 11,5 x 3 mm'dir."
+    },
+    "q7": {
+      "question": "10g'lık bir lastik ağırlığı şeridinin boyutları nelerdir?",
+      "answer": "10g'lık lastik ağırlıklarının boyutları 19 x 23 x 3 mm'dir."
+    },
+    "q8": {
+      "question": "Bir kutu lastik ağırlığının ağırlığı nedir?",
+      "answer": "Bir kutu lastik ağırlığı 6 kg ağırlığındadır."
+    },
+    "q9": {
+      "question": "Her kutuda kaç adet yapışkan bant bulunur?",
+      "answer": "Her kutuda 100 adet yapışkan bant bulunur."
+    },
+    "q10": {
+      "question": "Lastik ağırlıklarında keskin kenarların önemi nedir?",
+      "answer": "Keskin kenarlar hassas uygulama ve güvenli oturma sağlar."
+    },
+    "q11": {
+      "question": "YILSA lastik ağırlıkları kendinden yapışkanlı mıdır?",
+      "answer": "Evet, lastik ağırlıkları kendinden yapışkanlıdır."
+    },
+    "q12": {
+      "question": "Lastik ağırlıkları için hammadde kalınlığı nedir?",
+      "answer": "Hammadde kalınlığı 3 mm'dir."
+    },
+    "q13": {
+      "question": "Lastik ağırlığının uzunluğu nedir?",
+      "answer": "Lastik ağırlığının uzunluğu 19 mm'dir ve sabittir."
+    }
+  },
+  "view_all_faqs_button": "Tüm SSS'leri görüntülemek için buraya tıklayın",
+  "meta": {
+    "title": "Sıkça Sorulan Sorular | YILSA Lastik Ağırlığı Üretim Ekipmanları",
+    "description": "YILSA'nın doğrama makineleri, bantlama sistemleri, rulo açıcılar ve eksiksiz üretim hatları dahil olmak üzere lastik ağırlığı üretim ekipmanları hakkında sıkça sorulan soruların yanıtlarını bulun.",
+    "keywords": [
+      "lastik ağırlığı ekipmanı SSS",
+      "lastik ağırlığı üretim soruları",
+      "lastik ağırlığı üretim yardımı",
+      "YILSA makine desteği",
+      "lastik ağırlığı teknik soruları"
+    ]
+  }
+}

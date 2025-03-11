@@ -1,0 +1,59 @@
+{
+  "hero": {
+    "title": "Wire Flattening Machine",
+    "subtitle": "Transform Your Production Economics",
+    "description": "Convert standard 8mm wire rod into precise 11.5 x 3mm flat steel, reducing raw material costs by up to 50% while streamlining your production process"
+  },
+  "specifications": {
+    "title": "Wire Flattening Machine",
+    "description": "The YILSA Wire Flattening Machine revolutionizes wheel weight production economics through purpose-built design. Unlike general-purpose flattening equipment, our system is specifically engineered for wheel weight manufacturing, offering superior cost-efficiency and precise dimensional control.\n\nDesigned for seamless integration with our wheel weight production line, this specialized machine directly processes 8mm wire rod into production-ready 11.5 x 3mm flat steel, eliminating costly intermediate steps and reducing raw material expenses by up to 50%.",
+    "table": {
+      "power": "Power System: 11 kW AC Motor",
+      "speed": "Production Speed: 16 m/min",
+      "dimensions": "Machine Dimensions: 80cm Width x 120cm Length x 180cm Height",
+      "weight": "Machine Weight: 1000 kg",
+      "input": "Input Material: 8mm Wire Rod",
+      "output": "Output Product: 11.5 x 3mm Flat Steel"
+    }
+  },
+  "description": {
+    "title": "Purpose-Built Innovation",
+    "subtitle": "Maximizing Production Efficiency",
+    "intro": "Our purpose-built wire flattening system delivers three key economic benefits:\n\nRaw Material Cost Reduction: Utilizes readily available 8mm wire rod\nProcess Optimization: Eliminates intermediate production steps\nDirect Integration: Feeds directly into the wheel weight production line",
+    "economic": {
+      "title": "Economic Advantages",
+      "description": "Our purpose-built wire flattening system delivers three key economic benefits:\n\nRaw Material Cost Reduction: Utilizes readily available 8mm wire rod\nProcess Optimization: Eliminates intermediate production steps\nDirect Integration: Feeds directly into the wheel weight production line"
+    },
+    "technical": {
+      "title": "Technical Excellence",
+      "description": "The machine's precision-engineered design ensures consistent output quality while maintaining high production speeds. The robust 11 kW AC motor system delivers reliable performance, processing up to 16 meters per minute of raw material into precisely dimensioned flat steel."
+    },
+    "benefits": {
+      "title": "Production Benefits",
+      "list": {
+        "processing": "Direct Processing: 8mm wire rod to 11.5 x 3mm flat steel",
+        "quality": "Consistent Quality: Precise dimensional control",
+        "operation": "Efficient Operation: Streamlined production workflow",
+        "cost": "Cost Reduction: Up to 50% raw material savings",
+        "integration": "Simple Integration: Compatible with existing production lines",
+        "usability": "User-Friendly: Minimal operator training required"
+      }
+    },
+    "integration": {
+      "title": "Integration Features",
+      "description": "The system's compact design requires minimal floor space while offering seamless integration with your wheel weight production line. The streamlined material path eliminates the need for additional handling equipment, reducing both capital investment and operational complexity."
+    }
+  },
+  "meta": {
+    "title": "Wire Flattening Machine | Cost-Effective Wheel Weight Production | YILSA",
+    "description": "Specialized wire flattening machine converts 8mm wire rod into 11.5 x 3mm flat steel, reducing raw material costs by 50% for wheel weight manufacturing. Purpose-built design for maximum efficiency.",
+    "keywords": [
+      "wire flattening machine",
+      "wheel weight production equipment",
+      "industrial wire flattening",
+      "steel wire flattening",
+      "metal processing machine",
+      "wire processing equipment"
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "hero": {
+    "tag": "Lastik Balans Ağırlığı Doğrama ve Markalama Makinesi",
+    "title": "Yüksek Hızlı Lastik Balans Ağırlığı Üretim Makinesi",
+    "description": "Gelişmiş rotary punch teknolojimizle saatte 100.000 adede kadar benzersiz üretim hızlarına ulaşın"
+  },
+  "comparison": {
+    "title": "Teknoloji Karşılaştırması",
+    "subtitle": "Gelişmiş Teknoloji vs Geleneksel Yöntemler",
+    "rotary": {
+      "title": "Rotary Punch Teknolojisi",
+      "speed": "100.000 adet/saat üretim hızı",
+      "efficiency": "83.300 adet/kWh enerji verimliliği",
+      "motion": "Kesintisiz döner hareket ile sorunsuz operasyon",
+      "feeding": "Kendinden besleme mekanizması",
+      "cuts": "Çapaksız, hassas kesimler"
+    },
+    "traditional": {
+      "title": "Geleneksel Pres Sistemleri",
+      "speed": "25.000 adet/saat üretim hızı",
+      "efficiency": "20.800 adet/kWh enerji verimliliği",
+      "motion": "Titreşime neden olan aralıklı hareket",
+      "feeding": "Harici besleme ünitesi gerektirir",
+      "cuts": "Çapaklar ve kesme açısı bozulması"
+    },
+    "stats": {
+      "production": {
+        "value": "4x",
+        "label": "Daha Hızlı Üretim"
+      },
+      "energy": {
+        "value": "80%",
+        "label": "Enerji Tasarrufu"
+      },
+      "waste": {
+        "value": "0%",
+        "label": "Malzeme İsrafı"
+      }
+    }
+  },
+  "specifications": {
+    "title": "Ürün Özellikleri",
+    "subtitle": "Temel Özellikler & Teknik Özellikler",
+    "frontView": "Ön görünüm",
+    "intro": {
+      "part1": "YILSA Lastik Balans Ağırlığı Doğrama ve Markalama Makinesi, yenilikçi rotary punch teknolojisi ile yapışkanlı lastik balans ağırlığı üretiminde devrim yaratıyor. Geleneksel pres sistemlerinden farklı olarak, makinemiz senkronize dönen erkek ve dişi kesicili tamburlar kullanır ve israf veya kalite ödün vermeden sürekli üretime olanak tanır.",
+      "part2": "Yüksek hacimli çıktı gerektiren üretim tesisleri için özel olarak tasarlanan bu makine, saatte 100.000 adede kadar üretim hızlarıyla benzersiz verimlilik sunar - bu da onu geleneksel sistemlerden 4-8 kat daha hızlı hale getirir."
+    },
+    "tabs": {
+      "production": "Üretim Özellikleri",
+      "machine": "Makine Özellikleri"
+    },
+    "production": {
+      "capacity": "Üretim Kapasitesi",
+      "capacityValue": "100.000 adet/saat (çift besleme)",
+      "energy": "Enerji Tüketimi",
+      "energyValue": "100.000 adet başına 1.37 kWh",
+      "stripWidth": "Şerit Genişliği (5g)",
+      "stripWidthValue": "11.5 mm",
+      "cutLength": "Kesme Uzunluğu",
+      "cutLengthValue": "19 mm sabit",
+      "rawMaterial": "Ham Madde",
+      "rawMaterialValue": "Rulo halinde St37 çelik şerit",
+      "thickness": "Malzeme Kalınlığı",
+      "thicknessValue": "~3 mm"
+    },
+    "machine": {
+      "dimensions": "Boyutlar",
+      "dimensionsValue": "60cm x 80cm x 130cm",
+      "weight": "Ağırlık",
+      "weightValue": "720 kg",
+      "drive": "Tahrik Sistemi",
+      "driveValue": "AC Sürücülü 3 kW Motor",
+      "control": "Kontrol Sistemi",
+      "controlValue": "7\" Ekranlı Delta PLC",
+      "cutting": "Kesme Sistemi",
+      "cuttingValue": "70 hassas bıçak",
+      "marking": "Markalama Sistemi",
+      "markingValue": "4 özelleştirilebilir tambur"
+    }
+  },
+  "description": {
+    "tag": "Ürün Açıklaması",
+    "title": "Üretim Hattınızın Temeli",
+    "intro": "Lastik Ağırlığı Doğrama ve Markalama Makinesi, verimli lastik ağırlığı üretiminin temel taşı olarak duruyor. Üretim hattındaki merkezi bileşen olarak, ham maddeyi hassas bir şekilde kesilmiş ve açıkça işaretlenmiş ağırlıklara dönüştürerek, sonraki tüm işleme adımları için temel oluşturur.",
+    "technology": {
+      "title": "Gelişmiş Operasyon Sistemi",
+      "description": "Makinenin çift tamburlu tasarımı, hem kesme hem de markalama işlevlerini tek, aerodinamik bir süreçte birleştirir. Birincil tamburlar malzeme israfı olmadan hassas kesmeyi sağlarken, entegre markalama tamburları aynı anda ağırlık değerlerini ve marka bilgilerini olağanüstü netlikle basar. Bu senkronize çalışma, yüksek hacimli üretim çalışmalarında tutarlı kalite sağlar."
+    },
+    "benefits": {
+      "title": "Üstün Üretim Avantajları",
+      "intro": "Rotary punch teknolojisi, geleneksel pres sistemlerine göre üç temel avantaj sunar:",
+      "list": {
+        "energy": "Enerji verimliliği: 100.000 adet başına sadece 1.37 kWh tüketerek enerji kullanımında %80'lik bir azalmayı temsil eder",
+        "quality": "Kalite tutarlılığı: Sürekli dönme kuvveti ile çapaksız kesimler ve net işaretler üretir",
+        "space": "Alan optimizasyonu: Dikey punch mekanizmasına sahip kompakt tasarım, maksimum çıktıyı korurken minimum zemin alanı gerektirir"
+      }
+    },
+    "integration": {
+      "title": "Entegrasyon & Otomasyon",
+      "description": "Makine, hem yukarı akış tel düzleştirme hem de aşağı akış bantlama süreçlerine sorunsuz bir şekilde bağlanır. Kendinden besleme mekanizması, ek besleme ünitelerine olan ihtiyacı ortadan kaldırırken, hassas kontrollü çıktı, sonraki işleme aşamalarına sorunsuz geçiş sağlar. Tüm sistem, 7\" ekran arayüzüne sahip gelişmiş bir Delta PLC kontrol sistemi aracılığıyla yönetilir ve üretim parametrelerinin gerçek zamanlı izlenmesini ve ayarlanmasını sağlar."
+    }
+  },
+  "meta": {
+    "title": "YILSA: Gelişmiş Rotary Punch Teknolojisi ile Lastik Balans Ağırlığı Üretiminde Devrim",
+    "description": "YILSA'nın rotary punch teknolojisine sahip yüksek hızlı lastik balans ağırlığı üretim makinelerini keşfedin. Düşük enerji tüketimi ve bakım maliyetleriyle saatte 100.000 adede kadar üretim yapın.",
+    "keywords": "lastik balans ağırlığı üretim makineleri, rotary punch teknolojisi, yapışkanlı lastik balans ağırlıkları, yüksek hızlı lastik balans ağırlığı üretimi, lastik balans ağırlığı üretim ekipmanları"
+  }
+}

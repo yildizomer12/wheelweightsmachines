@@ -1,0 +1,42 @@
+{
+  "decoiler": {
+    "title": "Rulo Açıcı",
+    "features": {
+      "capacity": "2000 kg bobin kapasitesi",
+      "mandrel": "Hidrolik mandrel sistemi",
+      "tension": "Gelişmiş gerginlik kontrolü"
+    }
+  },
+  "flattening": {
+    "title": "Tel Ezme Makinesi",
+    "features": {
+      "processing": "Direkt M8 tel işleme",
+      "output": "11.5 x 3 mm çıktı",
+      "cost": "%50 hammadde tasarrufu"
+    }
+  },
+  "chopping": {
+    "title": "Kesme ve Markalama Makinesi",
+    "features": {
+      "capacity": "Saatte 100.000 adet kapasite",
+      "technology": "Rotary punch teknolojisi",
+      "marking": "Hassas markalama sistemi"
+    }
+  },
+  "taping": {
+    "title": "Bantlama ve Paketleme Makinesi",
+    "features": {
+      "config": "5g+5g ve 5g+10g konfigürasyonlar",
+      "monitoring": "Gerçek zamanlı izleme",
+      "output": "15 kutu/saat çıktı"
+    }
+  },
+  "weights": {
+    "title": "Balans Ağırlığı Üretimi",
+    "features": {
+      "coating": "Galvaniz kaplamalı, kendinden yapışkanlı",
+      "accuracy": "Şerit başına ±0.5g ağırlık hassasiyeti",
+      "combinations": "5g ve 10g kombinasyonları mevcuttur"
+    }
+  }
+}

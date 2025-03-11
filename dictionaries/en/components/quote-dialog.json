@@ -1,0 +1,15 @@
+{
+  "title": "Request a Quote",
+  "description": "Fill out the form below and we'll get back to you with a detailed quote.",
+  "name": "Name",
+  "email": "Email",
+  "phone": "Phone Number",
+    "message": "Message",
+    "submit": "Submit",
+    "submitting": "Submitting...",
+    "successMessage": "Your request has been sent successfully!",
+    "errorMessage": "Failed to send request. Please try again.",
+    "successTitle": "Success",
+    "errorTitle": "Error",
+    "okButton": "OK"
+  }

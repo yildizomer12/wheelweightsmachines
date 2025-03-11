@@ -1,0 +1,7 @@
+{
+  "successTitle": "Başarılı",
+  "successMessage": "Mesajınız başarıyla gönderildi!",
+  "errorTitle": "Hata",
+  "errorMessage": "Mesaj gönderme başarısız oldu. Lütfen tekrar deneyin.",
+  "okButton": "Tamam"
+}

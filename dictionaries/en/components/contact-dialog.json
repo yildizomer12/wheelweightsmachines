@@ -1,0 +1,7 @@
+{
+  "successTitle": "Success",
+  "successMessage": "Your message has been sent successfully!",
+  "errorTitle": "Error",
+  "errorMessage": "Failed to send message. Please try again.",
+  "okButton": "Ok"
+}

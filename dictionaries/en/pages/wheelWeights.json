@@ -1,0 +1,67 @@
+{
+  "hero": {
+    "badge": "Wheel Weights",
+    "title": "High-Performance Adhesive Wheel Weights for Professional Tire Services",
+    "description": "Discover industry-leading wheel weights with superior adherence, galvanized coating, and precise weight accuracy of ±0.5g. Manufactured using advanced Rotary Punch technology for consistent quality and performance."
+  },
+  "specifications": {
+    "description": "Our wheel weights combine precision engineering with premium materials to deliver superior performance and reliability. They feature self-adhesive technology with high-quality adhesive tape, ensuring secure attachment. The galvanized coating enhances corrosion resistance, while the sharp edges guarantee precise fitment and a professional appearance. The weight accuracy is maintained within ±0.5g per strip. These wheel weights are available in versatile combinations to meet all balancing needs, and each box contains 50-100 strips of professional-grade weights.",
+    "table": {
+      "specification": "Specification",
+      "series5_5": "5-5 Gr Series",
+      "series10_5": "10-5 Gr Series",
+      "dimensions": "Dimensions",
+      "dimensionsValue5_5": "19 x 11.5 x 3 mm",
+      "dimensionsValue10_5": "19 x 23 x 3 mm",
+      "stripConfiguration": "Strip Configuration",
+      "stripConfigurationValue5_5": "60g (12x5g)",
+      "stripConfigurationValue10_5": "60g (4x5g + 4x10g)",
+      "stripsPerBox": "Strips per Box",
+      "stripsPerBoxValue": "50-100",
+      "totalWeightPerBox": "Total Weight per Box",
+      "totalWeightPerBoxValue": "3-6 kg",
+      "surfaceTreatment": "Surface Treatment",
+      "surfaceTreatmentValue": "Galvanized",
+      "edgeType": "Edge Type",
+      "edgeTypeValue": "Sharp precision edges",
+      "adhesiveType": "Adhesive Type",
+      "adhesiveTypeValue": "Premium double-sided"
+    }
+  },
+  "productDescription": {
+    "title": "Professional-Grade Wheel Weights for Optimal Balance",
+    "intro": "Our wheel weights represent the pinnacle of balancing technology, designed specifically for professional tire shops and automotive service centers. Each weight is manufactured using advanced Rotary Punch technology, ensuring consistent quality and precise dimensions that exceed industry standards. The weights feature a specially formulated adhesive backing that provides exceptional bonding strength while allowing clean removal when needed. Our galvanized coating process ensures superior corrosion resistance, making these weights suitable for all weather conditions and environments.",
+    "qualityAssurance": {
+      "title": "Quality Assurance",
+      "description": "Each production batch undergoes rigorous quality control, with materials sourced from certified suppliers. Our manufacturing process is certified to international standards, and we maintain consistent weight accuracy across all production runs to ensure reliability and performance."
+    },
+    "applications": {
+      "title": "Applications",
+      "description": "These wheel weights are ideal for professional tire service centers, automotive dealerships, fleet maintenance facilities, high-volume tire retailers, and performance vehicle applications."
+    },
+    "manufacturingExcellence": {
+      "title": "Manufacturing Excellence",
+      "description": "We maintain complete control over the production process using our proprietary manufacturing equipment. Our wheel weights are produced using advanced Rotary Punch technology, which ensures superior quality compared to traditional press systems. For those interested in wheel weight manufacturing capabilities, we also offer complete production line solutions featuring our innovative machinery."
+    },
+    "orderPackaging": {
+      "title": "Order and Packaging Information",
+      "description": "Each box contains 100 strips, and bulk ordering is available for high-volume users. Custom packaging solutions can be provided for distributors, and full technical documentation is included with every order. A certification of conformity is also available upon request."
+    },
+    "learnMore": "Want to learn more about our manufacturing solutions? Explore our range of wheel weight production equipment featuring innovative Rotary Punch technology."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions"
+  },
+  "meta": {
+    "title": "High-Performance Adhesive Wheel Weights | Professional Tire Balancing Solutions | YILSA",
+    "description": "Premium adhesive wheel weights with superior adherence, galvanized coating, and ±0.5g weight accuracy. Manufactured using advanced Rotary Punch technology for automotive professionals.",
+    "keywords": [
+      "adhesive wheel weights",
+      "professional wheel weights",
+      "wheel balancing weights",
+      "tire service wheel weights",
+      "high-precision wheel weights",
+      "galvanized wheel weights"
+    ]
+  }
+}

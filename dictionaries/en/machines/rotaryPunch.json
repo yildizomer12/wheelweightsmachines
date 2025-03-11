@@ -1,0 +1,88 @@
+{
+  "applications": {
+    "title": "Beyond the Expected: Applications Across Industries",
+    "subtitle": "Rotary Punch Technology shines in diverse sectors:",
+    "wheelWeights": {
+      "title": "Wheel Weights",
+      "description": "Providing high-precision and rapid production for the wheel weight industry."
+    },
+    "clampingProfile": {
+      "title": "Clamping Profile Perforation",
+      "description": "Designed for the perforation of metal clips used to strengthen edge trims, enhancing production speed and energy conservation with patented rotary punch technology."
+    },
+    "cardboardReel": {
+      "title": "Cardboard Reel Edge Protector V Notching Machine",
+      "description": "Designed for producing cardboard reel edge protectors, which cover round edges of products to avoid impact and dispersion. It utilizes patented rotary punch technology to perforate cardboard, extending the life of punching tools."
+    },
+    "cableTray": {
+      "title": "Cable Tray Production",
+      "description": "Manufacturing metal cable trays with unparalleled precision and speed, ensuring robust support for electrical systems."
+    },
+    "customSolutions": {
+      "title": "Customized Solutions for Repetitive Tasks",
+      "description": "Rotary Punch can provide solutions for repetitive hole punching and marking projects."
+    },
+    "impact": "Integration and Real-World Impact",
+    "impactDescription": "Rotary Punch Technology seamlessly integrates into existing production lines. Whether it's the self-feeding mechanism in wheel weight manufacturing or the synchronization with roll forming systems in cable tray production, this technology streamlines operations for maximum efficiency. Rotary Punch Technology is a gateway to greater efficiency, higher quality, and significant cost savings. As industries evolve, this technology stands ready to meet the challenges of tomorrow, driving innovation and transforming manufacturing processes across the globe."
+  },
+  "description": {
+    "tag": "Technology",
+    "title": "Beyond Wheel Weights: Unveiling the Versatility of Rotary Punch Technology",
+    "intro": "The unsung hero behind incredible speed and precision in manufacturing processes might just be (link). While a star in the wheel weight industry, its talents stretch far beyond, revolutionizing how things are made. Rotary Punch Technology operates with a mesmerizing continuous rotary motion. Two drums, perfectly synchronized and fitted with male and female cutters, spin to smoothly and efficiently cut and mark materials. The action of punching is not vertical, which allows for smaller machine dimensions that can be used in tighter spaces.",
+    "edgeTitle": "The Edge: Why Rotary Punch Excels",
+    "edgeDescription": "Rotary Punch Technology is a game-changer because of its potent mix of efficiency, quality, and adaptability:",
+    "edgePoints": {
+      "speed": "Blazing Speed: Production speeds soaring up to 100,000 pieces per hour – that’s 4-8 times faster than conventional presses",
+      "energy": "Energy Savings: Consuming as little as 1.37 kWh per 100,000 pieces, slashing energy consumption by up to 80%",
+      "waste": "Zero Waste: Every cut is precise, maximizing raw material yield and minimizing waste",
+      "quality": "Unwavering Quality: Expect burr-free cuts, clear markings, and consistent results every time",
+      "adaptable": "Adaptable: It can be customized for different materials, thicknesses, and product specifications",
+      "durable": "Durable: Rotary Punch Technology brings low maintenance costs and long die life"
+    },
+    "comparisonTitle": "Rotary Punch vs. Traditional Press Systems",
+    "comparisonTable": {
+      "feature": "Feature",
+      "rotaryPunch": "Rotary Punch Technology",
+      "traditionalPress": "Traditional Press Systems",
+      "productionSpeed": "Production Speed",
+      "productionSpeedValueRotary": "100,000 pieces/hour",
+      "productionSpeedValueTraditional": "25,000 pieces/hour",
+      "energyEfficiency": "Energy Efficiency",
+      "energyEfficiencyValueRotary": "83,300 pieces/kWh",
+      "energyEfficiencyValueTraditional": "20,800 pieces/kWh",
+      "motion": "Motion",
+      "motionValueRotary": "Continuous rotary motion for smooth operation",
+      "motionValueTraditional": "Intermittent motion causing vibration",
+      "feedingMechanism": "Feeding Mechanism",
+      "feedingMechanismValueRotary": "Self-feeding mechanism",
+      "feedingMechanismValueTraditional": "Requires external feeding unit",
+      "cutQuality": "Cut Quality",
+      "cutQualityValueRotary": "Burr-free, precise cuts",
+      "cutQualityValueTraditional": "Burrs and cutting angle distortion",
+      "materialWaste": "Material Waste",
+      "materialWasteValueRotary": "0",
+      "materialWasteValueTraditional": "High",
+      "initialInvestment": "Initial Investment",
+      "initialInvestmentValueRotary": "Higher",
+      "initialInvestmentValueTraditional": "Lower",
+      "maintenanceCosts": "Maintenance Costs",
+      "maintenanceCostsValueRotary": "Lower",
+      "maintenanceCostsValueTraditional": "Higher",
+      "overallLifespan": "Overall Lifespan",
+      "overallLifespanValueRotary": "Longer",
+      "overallLifespanValueTraditional": "Shorter"
+    }
+  },
+  "meta": {
+    "title": "Rotary Punch Technology | 4x Faster Production | Energy-Efficient Manufacturing Solutions",
+    "description": "Discover how Rotary Punch Technology delivers 100,000 pieces/hour with 80% less energy consumption compared to traditional presses. Explore applications across wheel weights, cable trays, and more.",
+    "keywords": [
+      "rotary punch technology",
+      "rotary punching machine",
+      "metal punching technology",
+      "high-precision manufacturing",
+      "energy-efficient punching",
+      "industrial punching solutions"
+    ]
+  }
+}

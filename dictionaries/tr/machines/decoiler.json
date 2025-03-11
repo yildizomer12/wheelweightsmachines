@@ -1,0 +1,70 @@
+{
+  "hero": {
+    "tag": "Rulo Açıcı Makinesi",
+    "title": "Kapsamlı Rulo Açma Çözümleri",
+    "description": "300kg'dan 10.000kg'a kadar kapasiteler sunan kapsamlı rulo açıcı makine yelpazemizle üstün rulo işlemenin deneyimini yaşayın. Gelişmiş teknoloji, tüm endüstrilerde optimum malzeme taşıma için hassas mühendislikle buluşuyor."
+  },
+  "specifications": {
+    "title": "Temel Özellikler & Teknik Özellikler",
+    "description": "YILSA rulo açıcı makineleri, çeşitli uygulamalarda güvenilir çalışma sağlayan yenilikçi mühendisliği sağlam performansla birleştirir. Hafif hizmet işlemeden ağır sanayi kullanımına kadar yelpazemiz, hassas kontrol, gelişmiş güvenlik özellikleri ve üstün malzeme taşıma yetenekleri sunar. Özel üretim gereksinimlerinizi karşılamak için hem mekanik hem de hidrolik konfigürasyonlarda mevcuttur.",
+    "standardProductRange": "Standart Ürün Yelpazesi",
+    "wheelWeightSeries": "Lastik Ağırlığı Serisi",
+    "standard": {
+      "models": "Modeller",
+      "capacityRange": "Kapasite Aralığı",
+      "stripWidth": "Şerit Genişliği",
+      "maxOuterDiameter": "Maksimum Dış Çap",
+      "innerDiameterRange": "İç Çap Aralığı",
+      "driveSystem": "Tahrik Sistemi",
+      "maxSpeed": "Maksimum Hız",
+      "powerRange": "Güç Aralığı",
+      "mechanicalHydraulic": "Mekanik/Hidrolik"
+    },
+    "wheel": {
+      "models": "Modeller",
+      "capacityRange": "Kapasite Aralığı",
+      "stripWidth": "Şerit Genişliği",
+      "maxOuterDiameter": "Maksimum Dış Çap",
+      "innerDiameterRange": "İç Çap Aralığı",
+      "driveSystem": "Tahrik Sistemi",
+      "maxSpeed": "Maksimum Hız",
+      "powerRange": "Güç Aralığı",
+      "mechanicalHydraulic": "Mekanik/Hidrolik"
+    }
+  },
+  "description": {
+    "tag": "Ürün Açıklaması",
+    "title": "YILSA Rulo Açma Çözümleri",
+    "intro": "YILSA, çeşitli endüstri gereksinimlerini karşılamak üzere tasarlanmış kapsamlı rulo açma çözümleri sunar. Makinelerimiz, tüm uygulamalarda üstün performans sağlamak için gelişmiş teknolojiyi sağlam mühendislikle birleştirir.",
+    "features": {
+      "title": "Teknik Özellikler",
+      "description": "Hassas gerilim kontrolü, çok yönlü konfigürasyon seçenekleri (mekanik, hibrit ve tam hidrolik sistemler) ve kapsamlı güvenlik özellikleriyle donatılmıştır. Otomasyon özelliklerine sahip kullanıcı dostu kontroller, kolay kullanım sağlar."
+    },
+    "series": {
+      "title": "Ürün Serisi",
+      "light": "Hafif Seri (RL_300-1500): Küçük operasyonlar ve hassas işler için ideal mekanik tahrik sistemleri ile ekonomik çözümler sunar, dar şerit işleme için uygundur.",
+      "medium": "Orta Seri (RL_2000-4500): Endüstriyel üretim ortamları için uygun hibrit mekanik/hidrolik sistemler ve gelişmiş kontrol özellikleri ile donatılmıştır.",
+      "heavy": "Ağır Seri (RL_6000-10000): Zorlu endüstriyel uygulamalar için tasarlanmıştır, tam hidrolik sistemler ve 1200 mm'ye kadar genişlik kapasitesi sunar."
+    },
+    "standard": {
+      "title": "Standart Özellikler",
+      "description": "Tüm modellerde sağlam yapı, dahili rulo sıkıştırma mekanizması, hızı kontrollü AC motor tahriki ve çoklu güvenlik kilidi bulunur."
+    },
+    "applications": {
+      "title": "Uygulamalar",
+      "description": "Metal işleme, otomotiv parça üretimi, inşaat malzemesi üretimi, çelik servis merkezleri ve özel metal imalatı dahil olmak üzere çeşitli sektörlerde kullanılır."
+    }
+  },
+  "meta": {
+    "title": "YILSA Rulo Açıcı Makineleri | Kapsamlı Rulo İşleme Çözümleri | 300-10.000kg Kapasite",
+    "description": "YILSA'nın 300kg'dan 10.000kg'a kadar kapasiteler sunan gelişmiş rulo açıcı makinelerini keşfedin. Tüm endüstrilerde optimum metal rulo işleme için hassas mühendislik ve çok yönlü konfigürasyonlar.",
+    "keywords": [
+      "rulo açıcı makinesi", 
+      "bobin rulo açıcı", 
+      "metal rulo açıcı", 
+      "hidrolik rulo açıcı", 
+      "çelik rulo işleme ekipmanları", 
+      "endüstriyel rulo açma çözümleri"
+    ]
+  }
+}

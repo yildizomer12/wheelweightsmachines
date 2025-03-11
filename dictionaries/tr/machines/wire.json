@@ -1,0 +1,59 @@
+{
+  "hero": {
+    "title": "Tel Ezme Makinesi",
+    "subtitle": "Üretim Ekonominizi Dönüştürün",
+    "description": "Standart 8mm tel çubuğu hassas 11.5 x 3mm yassı çeliğe dönüştürerek, üretim sürecinizi kolaylaştırırken hammadde maliyetlerini %50'ye kadar azaltın"
+  },
+  "specifications": {
+    "title": "Tel Ezme Makinesi",
+    "description": "YILSA Tel Ezme Makinesi, amaca yönelik tasarımıyla lastik ağırlığı üretim ekonomisinde devrim yaratıyor. Genel amaçlı ezme ekipmanlarından farklı olarak, sistemimiz özellikle lastik ağırlığı üretimi için tasarlanmış olup, üstün maliyet verimliliği ve hassas boyutsal kontrol sunar.\n\nLastik ağırlığı üretim hattımızla sorunsuz entegrasyon için tasarlanan bu özel makine, 8 mm'lik tel çubuğu doğrudan üretime hazır 11,5 x 3 mm'lik yassı çeliğe işleyerek maliyetli ara adımları ortadan kaldırır ve hammadde giderlerini %50'ye kadar azaltır.",
+    "table": {
+      "power": "Güç Sistemi: 11 kW AC Motor",
+      "speed": "Üretim Hızı: 16 m/dakika",
+      "dimensions": "Makine Boyutları: 80cm Genişlik x 120cm Uzunluk x 180cm Yükseklik",
+      "weight": "Makine Ağırlığı: 1000 kg",
+      "input": "Giriş Malzemesi: 8mm Tel Çubuk",
+      "output": "Çıkış Ürünü: 11.5 x 3mm Yassı Çelik"
+    }
+  },
+  "description": {
+    "title": "Amaca Yönelik İnovasyon",
+    "subtitle": "Üretim Verimliliğini En Üst Düzeye Çıkarma",
+    "intro": "Amaca yönelik tel ezme sistemimiz üç temel ekonomik fayda sağlar:\n\nHammadde Maliyeti Azaltma: Kolayca temin edilebilen 8mm tel çubuk kullanır\nSüreç Optimizasyonu: Ara üretim adımlarını ortadan kaldırır\nDoğrudan Entegrasyon: Doğrudan lastik ağırlığı üretim hattına beslenir",
+    "economic": {
+      "title": "Ekonomik Avantajlar",
+      "description": "Amaca yönelik tel ezme sistemimiz üç temel ekonomik fayda sağlar:\n\nHammadde Maliyeti Azaltma: Kolayca temin edilebilen 8mm tel çubuk kullanır\nSüreç Optimizasyonu: Ara üretim adımlarını ortadan kaldırır\nDoğrudan Entegrasyon: Doğrudan lastik ağırlığı üretim hattına beslenir"
+    },
+    "technical": {
+      "title": "Teknik Mükemmellik",
+      "description": "Makinenin hassas mühendislik tasarımı, yüksek üretim hızlarını korurken tutarlı çıktı kalitesi sağlar. Güçlü 11 kW AC motor sistemi, dakikada 16 metreye kadar ham maddeyi hassas boyutlandırılmış yassı çeliğe işleyerek güvenilir performans sunar."
+    },
+    "benefits": {
+      "title": "Üretim Faydaları",
+      "list": {
+        "processing": "Doğrudan İşleme: 8mm tel çubuktan 11.5 x 3mm yassı çeliğe",
+        "quality": "Tutarlı Kalite: Hassas boyutsal kontrol",
+        "operation": "Verimli Çalışma: Kolaylaştırılmış üretim iş akışı",
+        "cost": "Maliyet Azaltma: %50'ye kadar hammadde tasarrufu",
+        "integration": "Basit Entegrasyon: Mevcut üretim hatlarıyla uyumlu",
+        "usability": "Kullanıcı Dostu: Minimum operatör eğitimi gerektirir"
+      }
+    },
+    "integration": {
+      "title": "Entegrasyon Özellikleri",
+      "description": "Sistemin kompakt tasarımı minimum zemin alanı gerektirirken, lastik ağırlığı üretim hattınızla sorunsuz entegrasyon sunar. Kolaylaştırılmış malzeme yolu, ek taşıma ekipmanına olan ihtiyacı ortadan kaldırarak hem sermaye yatırımını hem de operasyonel karmaşıklığı azaltır."
+    }
+  },
+  "meta": {
+    "title": "Tel Ezme Makinesi | Uygun Maliyetli Lastik Ağırlığı Üretimi | YILSA",
+    "description": "Özel tel ezme makinesi, 8 mm tel çubuğu 11,5 x 3 mm yassı çeliğe dönüştürerek lastik ağırlığı üretiminde hammadde maliyetlerini %50 azaltır. Maksimum verimlilik için amaca yönelik tasarım.",
+    "keywords": [
+      "tel ezme makinesi",
+      "lastik ağırlığı üretim ekipmanı",
+      "endüstriyel tel ezme",
+      "çelik tel ezme",
+      "metal işleme makinesi",
+      "tel işleme ekipmanı"
+    ]
+  }
+}
