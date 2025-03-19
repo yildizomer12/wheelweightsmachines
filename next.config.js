@@ -15,21 +15,42 @@ const nextConfig = {
     ];
   },
 
-  // Headers to ensure proper caching of sitemap and robots.txt
+  // Headers to ensure proper SEO settings
   async headers() {
     return [
       {
         source: '/sitemap.xml',
         headers: [
           {
+            key: 'Content-Type',
+            value: 'application/xml',
+          },
+          {
             key: 'Cache-Control',
             value: 'public, max-age=3600, must-revalidate',
+          }
+        ],
+      },
+      {
+        source: '/api/sitemap',
+        headers: [
+          {
+            key: 'Content-Type',
+            value: 'application/xml',
           },
+          {
+            key: 'Cache-Control',
+            value: 'public, max-age=3600, must-revalidate',
+          }
         ],
       },
       {
         source: '/robots.txt',
         headers: [
+          {
+            key: 'Content-Type',
+            value: 'text/plain',
+          },
           {
             key: 'Cache-Control',
             value: 'public, max-age=3600, must-revalidate',

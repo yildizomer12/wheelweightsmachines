@@ -11,7 +11,7 @@ Allow: /tr/
 Allow: /images/
 Allow: /sitemap.xml
 
-# Block private and utility routes
+# Block private routes
 Disallow: /api/
 Disallow: /_next/
 Disallow: /*/components/
@@ -25,7 +25,7 @@ Disallow: /types/
 Disallow: /*?*
 
 # Add sitemap reference
-Sitemap: https://www.wheelweightsmachines.com/api/sitemap
+Sitemap: https://www.wheelweightsmachines.com/sitemap.xml
 
 # Crawl-delay directive for rate limiting
 Crawl-delay: 1
