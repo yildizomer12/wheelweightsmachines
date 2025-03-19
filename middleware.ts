@@ -24,11 +24,18 @@ export function middleware(request: NextRequest) {
     preferredLocale = getPreferredLocale(request.headers.get('accept-language'));
   }
 
-  // If URL has no locale or invalid locale, redirect to add locale
+  // If URL has no locale or invalid locale, handle root path specially
   if (!pathnameLocale || !isValidLocale(pathnameLocale)) {
+    // Allow root path to be indexed
+    if (pathname === '/') {
+      return NextResponse.rewrite(
+        new URL(`/${preferredLocale}`, request.url)
+      );
+    }
+    // Redirect other paths to add locale
     return NextResponse.redirect(
       new URL(
-        `/${preferredLocale}${pathname === '/' ? '' : pathname}`,
+        `/${preferredLocale}${pathname}`,
         request.url
       )
     );

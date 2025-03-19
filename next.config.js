@@ -5,19 +5,39 @@ const nextConfig = {
   },
   images: { unoptimized: true },
   
-  // Rewrite for sitemap.xml to point to our dynamic sitemap generator
+  // Configure trailing slashes and i18n handling
+  trailingSlash: false,
+  
+  // Rewrite rules for SEO and sitemap
   async rewrites() {
     return [
       {
         source: '/sitemap.xml',
         destination: '/api/sitemap',
       },
+      {
+        source: '/',
+        destination: '/en',
+      },
     ];
   },
 
-  // Headers to ensure proper SEO settings
+  // Headers for SEO and security
   async headers() {
     return [
+      {
+        source: '/:path*',
+        headers: [
+          {
+            key: 'X-DNS-Prefetch-Control',
+            value: 'on',
+          },
+          {
+            key: 'Strict-Transport-Security',
+            value: 'max-age=31536000; includeSubDomains',
+          },
+        ],
+      },
       {
         source: '/sitemap.xml',
         headers: [
