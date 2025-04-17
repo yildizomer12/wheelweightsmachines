@@ -1,4 +1,4 @@
-# www.wheelweightsmachines.com robots.txt
+# www.adhesivewheelweight.com robots.txt
 
 # Global rules
 User-agent: *
@@ -25,7 +25,7 @@ Disallow: /types/
 Disallow: /*?*
 
 # Add sitemap reference
-Sitemap: https://www.wheelweightsmachines.com/sitemap.xml
+Sitemap: https://www.adhesivewheelweight.com/sitemap.xml
 
 # Crawl-delay directive for rate limiting
 Crawl-delay: 1

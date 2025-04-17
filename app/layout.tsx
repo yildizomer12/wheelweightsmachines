@@ -5,7 +5,7 @@ import { ClientLayout } from './client-layout';
 import './globals.css';
 
 export const metadata = {
-  metadataBase: new URL('https://www.wheelweightsmachines.com'),
+  metadataBase: new URL('https://www.adhesivewheelweight.com'),
   alternates: {
     canonical: '/',
     languages: {
@@ -72,7 +72,7 @@ export default async function RootLayout({
         ))}
         <link
           rel="alternate"
-          href="https://www.wheelweightsmachines.com"
+          href="https://www.adhesivewheelweight.com"
           hrefLang="x-default"
         />
         <meta
