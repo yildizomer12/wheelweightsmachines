@@ -77,7 +77,7 @@ export default async function RootLayout({
         />
         <meta
           name="google-site-verification"
-          content="AiSiarEPNKXsp4SKrEwvPx_eSv9P2V1NtrBNgM1Gosw"
+          content="v4TkfPcQIcmiJU7-RWI3oRiKhEbWbQwUS18K81XC4EY"
         />
         <div dangerouslySetInnerHTML={{ __html: generateOrganizationSchema(locale) }} />
       </head>
