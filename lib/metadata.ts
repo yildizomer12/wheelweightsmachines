@@ -26,7 +26,7 @@ export function generateSEOMetadata({
     height: 630,
   },
 }: MetadataParams, locale: Locale): Metadata {
-  const url = 'https://www.adhesivewheelweight.com';
+  const url = 'https://www.wheelweightsmachines.com';
 
   // Generate language alternates
   const languageAlternates = i18n.locales.reduce((acc: Record<string, string>, lang) => {

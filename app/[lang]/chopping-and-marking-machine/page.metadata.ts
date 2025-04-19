@@ -11,7 +11,7 @@ export async function generateMetadata({ params }: { params: { lang: Locale } })
     title: dictionary.machines.chopping.meta.title,
     description: dictionary.machines.chopping.meta.description,
     keywords: dictionary.machines.chopping.meta.keywords,
-    metadataBase: new URL('https://www.adhesivewheelweight.com'),
+    metadataBase: new URL('https://www.wheelweightsmachines.com'),
     alternates: {
       canonical: `/chopping-and-marking-machine`,
       languages: i18n.locales.reduce((acc: Record<string, string>, locale) => {

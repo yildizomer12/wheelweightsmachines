@@ -16,9 +16,9 @@ export function generateOrganizationSchema(locale: string): string {
   const schema = {
     "@context": "https://schema.org",
     "@type": "Organization",
-    "url": "https://www.adhesivewheelweight.com",
+    "url": "https://www.wheelweightsmachines.com",
     "name": "YILSA Wheel Weight Machines",
-    "logo": "https://www.adhesivewheelweight.com/yilsa-logo.svg",
+    "logo": "https://www.wheelweightsmachines.com/yilsa-logo.svg",
     "contactPoint": [{
       "@type": "ContactPoint",
       "telephone": "+90-xxx-xxx-xxxx",
@@ -78,7 +78,7 @@ export function generateBreadcrumbSchema(items: { name: string; url: string }[],
       "@type": "ListItem",
       "position": index + 1,
       "name": item.name,
-      "item": `https://www.adhesivewheelweight.com${item.url}`
+      "item": `https://www.wheelweightsmachines.com${item.url}`
     }))
   };
 

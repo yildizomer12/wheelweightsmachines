@@ -11,7 +11,7 @@ export async function generateMetadata({ params }: { params: { lang: Locale } })
     title: dictionary.pages.home.meta.title,
     description: dictionary.pages.home.meta.description,
     keywords: ["wheel weights", "adhesive wheel weights", "wheel weight manufacturing", "industrial wheel weight machines"],
-    metadataBase: new URL('https://www.adhesivewheelweight.com'),
+    metadataBase: new URL('https://www.wheelweightsmachines.com'),
     alternates: {
       canonical: `/`,
       languages: i18n.locales.reduce((acc: Record<string, string>, locale) => {
