@@ -16,7 +16,7 @@ export async function generateMetadata({ params }: { params: { lang: Locale } })
     title: dictionary.machines.rotaryPunch.meta.title,
     description: dictionary.machines.rotaryPunch.meta.description,
     keywords: dictionary.machines.rotaryPunch.meta.keywords,
-    metadataBase: new URL('https://www.wheelweightsmachines.com'),
+    metadataBase: new URL('https://www.adhesivewheelweight.com'),
     alternates: {
       canonical: `/rotary-punch`,
       languages: i18n.locales.reduce((acc: Record<string, string>, locale) => {

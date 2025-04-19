@@ -1,7 +1,7 @@
 import { i18n } from '@/i18n-config';
 import { NextResponse } from 'next/server';
 
-const domain = 'https://www.wheelweightsmachines.com';
+const domain = 'https://www.adhesivewheelweight.com';
 
 const routes = {
   // Priority 1.0 - Home

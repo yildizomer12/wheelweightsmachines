@@ -56,7 +56,7 @@ export async function POST(request: Request) {
     const mailOptions = {
       from: process.env.SMTP_USER,
       to: process.env.QUOTE_EMAIL_RECIPIENT,
-      subject: 'New Contact Request from wheelweightsmachines.com',
+      subject: 'New Contact Request from adhesivewheelweight.com',
       text: `Name: ${name}\nCompany: ${company}\nPhone: ${phone}\nEmail: ${email}\nCountry: ${country}\nMessage: ${requirements}`,
     };
 

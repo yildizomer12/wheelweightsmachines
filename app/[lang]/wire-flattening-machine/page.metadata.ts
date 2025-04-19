@@ -16,7 +16,7 @@ export async function generateMetadata({ params }: { params: { lang: Locale } })
     title: dictionary.machines.wire.meta.title,
     description: dictionary.machines.wire.meta.description,
     keywords: dictionary.machines.wire.meta.keywords,
-    metadataBase: new URL('https://www.wheelweightsmachines.com'),
+    metadataBase: new URL('https://www.adhesivewheelweight.com'),
     alternates: {
       canonical: `/wire-flattening-machine`,
       languages: i18n.locales.reduce((acc: Record<string, string>, locale) => {

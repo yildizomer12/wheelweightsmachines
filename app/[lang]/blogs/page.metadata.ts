@@ -10,7 +10,7 @@ export async function generateMetadata({ params }: { params: { lang: Locale } })
     title: `${dictionary.blogs.meta.title || 'Wheel Weight Manufacturing Insights'} | YILSA`,
     description: dictionary.blogs.meta.description || 'Explore expert insights on wheel weight manufacturing machines and industry innovations.',
     keywords: ["wheel weight machines", "wheel weight production", "adhesive wheel weights", "wheel weight manufacturing", "wheel balancing technology"],
-    metadataBase: new URL('https://www.wheelweightsmachines.com'),
+    metadataBase: new URL('https://www.adhesivewheelweight.com'),
     alternates: {
       canonical: `/blogs`,
       languages: i18n.locales.reduce((acc: Record<string, string>, locale) => {

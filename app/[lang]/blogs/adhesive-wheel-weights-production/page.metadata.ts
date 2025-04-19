@@ -11,7 +11,7 @@ export async function generateMetadata({ params }: { params: { lang: Locale } })
     title: `${dictionary.blogs['adhesive-wheel-weights-production'].title} | YILSA`,
     description: dictionary.blogs['adhesive-wheel-weights-production'].description,
     keywords: ["wheel weight production machines", "rotary punch technology", "adhesive wheel weights", "high-speed wheel weight production", "wheel weight manufacturing equipment"],
-    metadataBase: new URL('https://www.wheelweightsmachines.com'),
+    metadataBase: new URL('https://www.adhesivewheelweight.com'),
     alternates: {
       canonical: `/blogs/adhesive-wheel-weights-production`,
       languages: i18n.locales.reduce((acc: Record<string, string>, locale) => {
